@@ -1,3 +1,145 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+theme: ccid
+title: Creative Commons Indonesia
+
+menu:
+  main:
+    - name: Informasi
+      url: '#'
+      weight: 10
+      identifier: informasi
+    - name: Lisensi
+      url: /lisensi-bahasa-indonesia
+      weight: 10
+      parent: informasi
+    - name: Kajian
+      url: /kajian
+      weight: 20
+      parent: informasi
+    - name: FAQ
+      url: /faq
+      weight: 30
+      parent: informasi
+      
+    - name: Berita
+      url: /berita
+      weight: 20
+
+    - name: Acara
+      url: /acara
+      weight: 30
+    
+    - name: Media
+      url: /media
+      weight: 40
+    
+    - name: Tentang
+      url: /tentang
+      weight: 50
+    
+    - name: Sobat CCID
+      url: /sobat-ccid
+      weight: 60
+  socmed:
+    - name: facebook
+      url: https://www.facebook.com/CreativeCommonsIndonesia
+      weight: 1
+      params:
+        icon: fa-brands fa-square-facebook
+    - name: twitter
+      url: https://twitter.com/CC_ID
+      weight: 2
+      params:
+        icon: fa-brands fa-twitter
+    - name: instagram
+      url: https://www.instagram.com/cc.indonesia/
+      weight: 3
+      params:
+        icon: fa-brands fa-instagram
+    - name: hubungi kami
+      url: /hubungi-kami
+      weight: 4
+      params:
+        icon: fa-solid fa-address-book
+  footer1:
+    - name: Media
+      url: /media
+      params:
+        icon: fa-brands fa-readme
+    - name: Lisensi
+      url: /lisensi
+      params:
+        icon: fa-brands fa-creative-commons
+    - name: Kajian
+      url: /kajian
+      params:
+        icon: fa-solid fa-book-open-reader
+    - name: FAQ
+      url: /faq
+      params:
+        icon: fa-solid fa-circle-question
+  footer2:
+    - name: Tentang Kami
+      url: /tentang
+      params:
+        icon: fa-solid fa-person-rays
+    - name: Berita
+      url: /berita
+      params:
+        icon: fa-solid fa-newspaper
+    - name: Acara
+      url: /acara
+      params:
+        icon: fa-solid fa-calendar-check
+  footer3:
+    - name: Sobat CCID
+      url: /sobat-ccid
+      params:
+        icon: fa-solid fa-users
+    - name: CCHQ
+      url: https://creativecommons.org
+      params:
+        icon: fa-brands fa-creative-commons
+    - name: CC Global Network
+      url: https://network.creativecommons.org
+      params:
+        icon: fa-solid fa-earth-asia
+  footer4:
+    - name: Hubungi Kami
+      url: /hubungi-kami
+      params:
+        icon: fa-solid fa-address-book
+    - name: Facebook
+      url: https://www.facebook.com/CreativeCommonsIndonesia
+      params:
+        icon: fa-brands fa-square-facebook
+    - name: Twitter
+      url: https://twitter.com/CC_ID
+      params:
+        icon: fa-brands fa-twitter
+    - name: Instagram
+      url: https://www.instagram.com/cc.indonesia
+      params:
+        icon: fa-brands fa-instagram
+
+    
+googleAnalitycs: G-GR2HTWFX22
+params:
+  description: Creative Commons Indonesia supports the usage of Creative Commons licenses and open cultural works in Indonesia
+  googleAnalyticsAsync: "true"
+  footerText: |
+    <i class="fa-brands fa-creative-commons pe-1"></i><i class="fa-brands fa-creative-commons-by pe-1"></i> 2012–2023 Creative Commons Indonesia. Kecuali dinyatakan lain, konten di situs ini dilisensikan di bawah lisensi <a href="https://creativecommons.org/licenses/by/4.0/deed.id">Creative Commons Atribusi 4.0 Internasional</a>.
+  footerLinks:
+    - title: Informasi
+      menu: footer1
+      weight: 1
+    - title: Tentang Kami
+      menu: footer2
+      weight: 2
+    - title: Network
+      menu: footer3
+      weight: 3
+    - title: Kontak
+      menu: footer4
+      weight: 4
