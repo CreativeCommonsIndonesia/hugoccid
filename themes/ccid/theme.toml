@@ -1,0 +1,11 @@
+name = "CCID"
+license = "GPLv3"
+description = "Tema Hugo untuk CreativeCommons Indonesia"
+homepage = "https://creativecommons.or.id/"
+tags = ["creativecommons"]
+features = []
+min_version = "0.108.0"
+
+[author]
+  name = "artemtech"
+  homepage = "https://github.com/artemtech/artemtech"
