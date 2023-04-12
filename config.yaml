@@ -34,7 +34,7 @@ menu:
       url: /media
       weight: 40
     
-    - name: Tentang
+    - name: Tentang kami
       url: /tentang
       weight: 50
     
