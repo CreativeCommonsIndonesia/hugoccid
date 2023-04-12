@@ -3,7 +3,9 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        {{- block "breadcrumb" . }}{{- end }}
+        {{ if not .IsHome }}
+        {{- partial "breadcrumb.html" . -}}
+        {{ end }}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
         {{- partial "js.html" . -}}

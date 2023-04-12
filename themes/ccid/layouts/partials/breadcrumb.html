@@ -1,0 +1,18 @@
+<div class="container-fluid mt-2">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            {{- range .Ancestors.Reverse }}
+            <li class="breadcrumb-item">
+                {{ if eq .Permalink .Site.Home.Permalink }}
+                <a title="Home" href="{{ .Permalink }}"><i class="fa-solid fa-house-chimney"></i></a>
+                {{ else }}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                {{ end }}
+            </li>
+            {{- end }}
+            <li class="breadcrumb-item active">
+                <a aria-current="page" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+            </li>          
+        </ol>
+    </nav>
+</div>
