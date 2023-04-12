@@ -1,0 +1,9 @@
+{{ if .IsNamedParams }}
+{{ $kontenClass := .Get "class" }}
+<figure class='figure ms-5 {{ $kontenClass }}'>
+    <div class="ratio ratio-16x9">
+           <iframe src='https://www.youtube.com/embed/{{ .Get "id" }}' title="YouTube video" allowfullscreen></iframe>
+      </div>
+    <figcaption class="figure-caption">{{ .Inner }}</figcaption>
+</figure>
+{{ end }}
