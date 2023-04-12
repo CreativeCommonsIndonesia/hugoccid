@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="container ccid-people p-5">
+    <div class="row mt-5">
+        <div class="col-12">
+            <h1 class="mb-5">{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
+        <div class="row">
+            <div class="col-12">
+                {{ range where $.Site.Pages "Type" "teams" }}
+                    {{ if .IsPage }}
+                        {{- partial "personal.html" . -}}
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</main>
+{{ end }}

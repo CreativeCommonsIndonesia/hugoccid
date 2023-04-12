@@ -1,0 +1,18 @@
+<div class="row mb-5">
+    <div class="col-12 mb-4">
+        <span class="badge"><h3>{{ .Title }}</h3></span>
+        <div class="progress">
+          <div class="progress-bar" style="width: 28%"></div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+        <img src='{{ .Params.foto }}' class="img-fluid float-start mt-2 mb-4">
+    </div>
+    <div class="col-lg-9 col-md-8 ps-md-5">
+        {{ .Content }}
+        
+        {{ range .Params.links }}
+            <h5><a href="{{ .link }}"><i class="{{ .icon }}"></i> {{ .name }}</a></h5>
+        {{ end }}
+    </div>
+</div>
