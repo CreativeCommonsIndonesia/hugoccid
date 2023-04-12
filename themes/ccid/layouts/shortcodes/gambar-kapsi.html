@@ -1,0 +1,7 @@
+{{ if .IsNamedParams }}
+{{ $kontenClass := .Get "class" }}
+<figure class='figure ms-5 {{ $kontenClass }}'>
+    <img src='{{ .Get "src" }}' alt='{{ .Get "alt" }}' title='{{ .Get "title" }}' class="figure-img img-fluid">
+    <figcaption class="figure-caption">{{ .Inner }}</figcaption>
+</figure>
+{{ end }}
