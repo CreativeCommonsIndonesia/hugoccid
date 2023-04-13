@@ -3,6 +3,16 @@ languageCode: en-us
 theme: ccid
 title: Creative Commons Indonesia
 
+uglyURLs: true
+paginate: 5
+
+permalinks:
+  tentang: /tentang
+  berita: /:year/:month/:title
+  acara: /:year/:month/:title
+  kajian: /:year/:month/:title
+  sobatccid: /:year/:month/:title
+
 menu:
   main:
     - name: Informasi
@@ -23,23 +33,23 @@ menu:
       parent: informasi
       
     - name: Berita
-      url: /berita
+      url: /berita.html
       weight: 20
 
     - name: Acara
-      url: /acara
+      url: /acara.html
       weight: 30
     
     - name: Media
-      url: /media
+      url: /media.html
       weight: 40
     
     - name: Tentang kami
-      url: /tentang
+      url: /tentang.html
       weight: 50
     
     - name: Sobat CCID
-      url: /sobat-ccid
+      url: /sobatccid.html
       weight: 60
   socmed:
     - name: facebook
@@ -126,6 +136,10 @@ menu:
     
 googleAnalitycs: G-GR2HTWFX22
 params:
+  author:
+    name: Creative Commons Indonesia
+    photo: https://creativecommons.or.id/uploads/people/ccid-mosaic.png
+    link: https://creativecommons.or.id
   description: Creative Commons Indonesia supports the usage of Creative Commons licenses and open cultural works in Indonesia
   googleAnalyticsAsync: "true"
   footerText: |
