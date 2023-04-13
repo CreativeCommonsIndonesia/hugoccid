@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main class="container py-5 px-4">
+    <div class="row mt-2">
+      <div class="col-12">
+        <h1 class="section-title display-6 text-center mb-5 pb-4">
+            <i class="{{ .Params.Icon }} fa-lg pe-3"></i> {{ .Title }}
+        </h1>
+        <ul id="paginated-list" aria-live="polite">
+            {{ range .Paginator.Pages }}
+            <li>
+                {{- block "konten-list-template" . }}
+                <div class="row mb-4">
+                    <div class="col-lg-2 col-md-3 mb-3 ps-0 article-img">
+                        <img src="{{ .Params.featured_image }}" class="img-fluid">
+                    </div>
+                    <div class="col-lg-10 col-md-9 mb-3 ps-0 ps-md-4">
+                        <h5>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h5>
+                        <p class="article-meta">
+                            <i class="fa-solid fa-feather fa-fw"></i> {{if .Params.author}}{{.Params.author.name}}{{else}}{{ .Site.Params.author.name }}{{end}} <br>
+                            <i class="fa-solid fa-calendar-day fa-fw"></i> {{ .Date | time.Format "2 January 2006" }}
+                        </p>
+                        <a href="{{ .Permalink }}" class="btn btn-outline-primary me-1" type="button">Baca artikel</a>
+                        {{ with .Params.additionalLinks }}
+                        {{ range . }}
+                            <a href="{{ .link }}" class="btn btn-outline-primary me-1" type="button">{{ .title }}</a>
+                        {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+                {{- end }}
+            </li>
+            {{ end }}
+        </ul>
+        <nav class="pagination-container">
+            <div id="pagination-numbers">
+                {{- partial "pagination.html" . -}}
+            </div>
+        </nav>
+    </div>
+</div>
+</main>
+{{ end }}
