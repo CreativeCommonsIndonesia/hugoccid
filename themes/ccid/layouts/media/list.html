@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="container p-5">
+    <div class="row mt-5">
+      <div class="col-12">
+        <h1 class="section-title display-6 text-center mb-5 pb-4">
+            <i class="{{ .Params.Icon }} fa-lg pe-3"></i> {{ .Title }}
+        </h1>
+        {{ range .Paginator.Pages }}
+        <div class="row mb-5">
+            <div class="col-lg-3 col-md-4 mb-4">
+                <img src="{{ .Params.featured_image }}" class="img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 d-flex align-items-start flex-column ps-md-5">
+                <h3>{{ .Title }}</h3>
+                {{ .Content }}
+                <p class="mb-3 mb-xl-4"></p>
+                {{ with .Params.additionalLinks }}
+                <p class="mb-4">
+                    {{ range . }}
+                        <a href="{{ .link }}" class="btn btn-primary mb-2 mb-xl-0" type="button">{{ .title }}</a>
+                    {{ end }}
+                </p>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        <nav class="pagination-container">
+            <div id="pagination-numbers">
+                {{- partial "pagination.html" . -}}
+            </div>
+        </nav>
+    </div>
+</div>
+</main>
+{{ end }}
