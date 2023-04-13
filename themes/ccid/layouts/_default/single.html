@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<main class="container article p-5">
+    <div class="row mt-2 mt-md-5">
+        <div class="col-12">
+            <!-- Article meta -->
+            <div class="row article-meta mb-3">
+                <div class="col-sm-6"><i class="fa-solid fa-calendar-day fa-fw"></i> {{ .Date | time.Format "2 January 2006" }}</div>
+                <div class="col-sm-6 pt-1 pt-sm-0 text-sm-end">
+                    <i class="fa-solid fa-share-from-square fa-fw pe-1"></i> Bagikan ke
+                    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}"><i class="fa-brands fa-linkedin ps-1" title="LinkedIn" aria-hidden="true"></i></a>
+
+                    <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" rel="nofollow" target="_blank"><i class="fa-brands fa-facebook" title="Facebook" aria-hidden="true"></i></a>
+
+                    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}" rel="nofollow" target="_blank"><i class="fa-brands fa-twitter" title="Twitter" aria-hidden="true"></i></a>
+                </div>
+            </div>
+            <!-- Profile of the article author -->
+            <div class="author-profile pt-2 mt-4 mb-5">
+                {{ $authorName := default .Site.Params.author.name .Params.author.name }}
+                {{ $authorPhoto := default .Site.Params.author.photo .Params.author.photo }}
+                {{ $authorBio := default .Site.Params.author.link .Params.author.link }}
+                <img class="img-fluid float-start" src="{{ $authorPhoto }}">
+                <h5>{{ $authorName }}</h5>
+                <h6><a href="{{ $authorBio }}"><i class="fa-brands fa-linkedin"></i></a></h6>
+            </div>
+
+            <!-- Main article content goes here -->
+            {{ with .Params.featured_image }}
+                <img src="{{ . }}" alt="" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
+            {{ end }}
+            {{ .Content }}
+            <div class="article-end mt-5"></div>
+        </div>
+    </div>
+</main>
+
+{{ end }}
