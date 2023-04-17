@@ -1,0 +1,45 @@
+{{ if .IsNamedParams }}
+    {{ $kategoriFaq := .Get "kategori" }}
+    {{ $judul := .Get "judulKategori" }}
+    {{ $iconJudul := .Get "iconJudul" }}
+    <h4><i class="{{$iconJudul}} fa-xl pe-2"></i> {{$judul}}</h4>
+    <ol class="faq-list">
+        {{ range where $.Site.RegularPages "Type" "faq" }}
+        {{ if eq .Params.category $kategoriFaq }}
+        <li class="faq-item">
+            <a class="faq-title" href="#{{ .Title | urlize}}">{{ .Title }}</a>&nbsp;&nbsp;&nbsp;&nbsp;<i class="faq-toggle fa-solid fa-plus"></i>
+            <div class="faq-contents " id="{{ .Title | urlize }}">
+                {{ .Content }}
+            </div>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ol>
+{{ end }}
+{{ define "extra_js" }}
+<script id="faq">
+var faqTitle = document.querySelectorAll('.faq-title')
+var faqContent = document.querySelectorAll(".faq-contents")
+
+function showContent() {
+    console.log(this)
+    var clickedToggle = this.nextElementSibling
+    console.info(clickedToggle)
+    if (clickedToggle.classList.contains("fa-plus")){
+        clickedToggle.classList.replace("fa-plus","fa-minus")
+    } else {
+        clickedToggle.classList.replace("fa-minus","fa-plus")
+    }
+    var clickedContent = this.nextElementSibling.nextElementSibling
+    clickedContent.classList.toggle('d-none')
+}
+
+faqContent.forEach(faq => {
+    faq.classList.toggle('d-none')
+});
+
+faqTitle.forEach(faq => {
+    faq.addEventListener("click", showContent);
+});
+</script>
+{{ end }}
