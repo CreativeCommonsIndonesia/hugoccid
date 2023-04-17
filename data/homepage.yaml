@@ -1,0 +1,24 @@
+data:
+  jumbotron:
+    # backgroundImage: "/img/404.svg"
+    backgroundImage: "https://creativecommons.or.id/uploads/Diskusi_Tahap_II_Penyusunan_Buklet_SPT_003.jpg"
+    featuredArticle: berita/2023-03-29-02.md
+  informations:
+    - title: Apa yang kita lakukan
+      icon: fa-solid fa-person-rays
+      description: Advokasi pengetahuan dan kreativitas yang lebih terbuka.
+      link: /tentang
+      linkText: Tentang Kami
+      backgroundImage: "https://creativecommons.or.id/uploads/Tim%20CCID%20di%20CC%20Global%20Summit%202019%20oleh%20Sebastian%20Ter%20Burg.jpg"
+    - title: Lisensi Creative Commons
+      icon: fa-brands fa-creative-commons
+      description: Lisensi Creative Commons memberdayakan pembagian karya berbasis izin hak cipta terstandarisasi.
+      link: /tentang`
+      linkText: Pelajari lebih lanjut`
+      backgroundImage: "https://creativecommons.or.id/uploads/Creative_Commons_IndonesiaxWulang_Sunu_Merchandise_Design.jpg"
+    - title: Kajian
+      icon: fa-solid fa-book-open-reader
+      description: Kumpulan materi untuk memahami lisensi hak cipta dan penggunaan karya berlisensi.
+      link: /tentang
+      linkText: Mulai pelajari
+      backgroundImage: "https://creativecommons.or.id/uploads/Bakar_tongkang_prosesi.jpg"
