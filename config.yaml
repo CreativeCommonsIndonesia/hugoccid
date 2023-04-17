@@ -3,7 +3,7 @@ languageCode: en-us
 theme: ccid
 title: Creative Commons Indonesia
 
-uglyURLs: true
+uglyURLs: false
 paginate: 5
 
 permalinks:
@@ -33,23 +33,23 @@ menu:
       parent: informasi
       
     - name: Berita
-      url: /berita.html
+      url: /berita
       weight: 20
 
     - name: Acara
-      url: /acara.html
+      url: /acara
       weight: 30
     
     - name: Media
-      url: /media.html
+      url: /media
       weight: 40
     
     - name: Tentang kami
-      url: /tentang.html
+      url: /tentang
       weight: 50
     
     - name: Sobat CCID
-      url: /sobatccid.html
+      url: /sobatccid
       weight: 60
   socmed:
     - name: facebook
