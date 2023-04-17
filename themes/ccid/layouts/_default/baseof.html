@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body>
+    <body {{ if .IsHome }}class="index-page"{{ end }}>
         {{- partial "header.html" . -}}
         {{ if not .IsHome }}
         {{- partial "breadcrumb.html" . -}}
