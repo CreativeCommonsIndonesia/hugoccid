@@ -61,7 +61,7 @@
 
 <!-- Artikel terbaru -->
 <main class="container article-list pt-4 pb-2 px-3">
-    {{ range first 9 .Site.RegularPages }}
+    {{ range first 9 (where .Site.RegularPages "Type" "!=" "faq") }}
     <div class="row pb-4 px-md-4">
         {{ $featuredimg := default "/img/404.svg" .Params.featured_image }}
         <div class="col-lg-2 col-md-3 mb-3 position-relative article-img">
