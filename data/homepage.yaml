@@ -2,7 +2,7 @@ data:
   jumbotron:
     # backgroundImage: "/img/404.svg"
     backgroundImage: "https://creativecommons.or.id/uploads/Diskusi_Tahap_II_Penyusunan_Buklet_SPT_003.jpg"
-    featuredArticle: berita/2023-03-29-02.md
+    #featuredArticle: berita/2023-03-29-02.md
   informations:
     - title: Apa yang kita lakukan
       icon: fa-solid fa-person-rays
