@@ -1,7 +1,7 @@
 ---
 title: "Creative Commons Indonesia dan Akademi Berbagi Mengadakan Kelas Bersama di Bali"
 date: 2013-04-30T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/creative-commons-indonesia-dan-akademi-berbagi-mengadakan-kelas-bersama-di-bali/CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg" alt="CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">Pada Tanggal 27 April 2013, Creative Commons Indonesia bekerja sama dengan Akademi berbagi mengadakan kelas bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons di Sanur, Bali. Hak Cipta adalah hak eksklusif bagi pencipta atau pemegang hak cipta untuk mengumumkan atau memperbanyak ciptaannya, berupa karya seni, sastra dan ilmu pengetahuan, yang timbul secara otomatis setelah suatu ciptaan dilahirkan tanpa mengurangi pembatasan menurut peraturan perundang-undangan yang berlaku.
+
+Pada Tanggal 27 April 2013, Creative Commons Indonesia bekerja sama dengan Akademi berbagi mengadakan kelas bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons di Sanur, Bali. Hak Cipta adalah hak eksklusif bagi pencipta atau pemegang hak cipta untuk mengumumkan atau memperbanyak ciptaannya, berupa karya seni, sastra dan ilmu pengetahuan, yang timbul secara otomatis setelah suatu ciptaan dilahirkan tanpa mengurangi pembatasan menurut peraturan perundang-undangan yang berlaku.
 
 Pada kesempatan kali ini, Ari Juliano sebagai nara sumber dan perwakilan dari Creative Commons Indonesia mengemukakan bahwa jika Hak Cipta diterapkan secara kaku, maka peradaban itu tidak berkembang. Sementara dengan lisensi Creative Commons, Anda menjaga Hak Cipta namun memungkinkan orang untuk menyalin dan mendistribusikan karya-karya Anda. Ari mengatakan bahwa kasus Hak Cipta di Indonesia lebih sering diselesaikan dengan “Maaf” ketimbang ke pengadilan.
 

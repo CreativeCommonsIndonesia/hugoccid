@@ -1,7 +1,7 @@
 ---
 title: "DOM 65 Rilis Ulang Album Mini “Oi! Ruck N’ Raw” Melalui Yes No Wave Netlabel (CC BY-NC-SA)"
 date: 2017-08-06T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/dom65-menerbikan-kembali-album-demonya-melalui-ynw-netlabel-cc-by-nc-sa/dom65-575x241.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,17 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-
-
-
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/dom65-575x241.jpg" alt="dom65-575x241.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">DOM 65 (Sumber: [YNW](http://yesnowave.com/yesno085/)).</figcaption>
+<figcaption class="figure-caption">DOM 65 (Sumber: [YNW](http://yesnowave.com/yesno085/)).</figcaption>
 
 </figure>
 

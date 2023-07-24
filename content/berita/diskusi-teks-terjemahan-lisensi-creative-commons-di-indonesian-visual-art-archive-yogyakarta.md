@@ -1,7 +1,7 @@
 ---
 title: "Diskusi Teks Terjemahan Lisensi Creative Commons di Indonesian Visual Art Archive, Yogyakarta"
 date: 2012-09-21T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/diskusi-teks-terjemahan-lisensi-creative-commons-di-indonesian-visual-art-archive-yogyakarta/Foto-IVAA-01-300x168.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/Foto-IVAA-01-300x168.jpg" alt="Foto-IVAA-01-300x168.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 <img src="../../uploads/Agustus-31-2012-Presentasi-Indonesian-Visual-Art-Archive-04-225x300.jpg" alt="Agustus-31-2012-Presentasi-Indonesian-Visual-Art-Archive-04-225x300.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Pada tanggal 31 Agustus 2012, Creative Commons Indonesia yang diwakili oleh Ivan Lanin melaksanakan presentasi dan diskusi Creative Commons Indonesia di kantor Indonesian Visual Art Archive, di Keparakan, Yogyakarta. Acara ini berlangsung selama kurang lebih 2 jam dan dihadiri oleh 30 orang peserta yang mayoritas berlatar belakang seniman.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hip Hop, Hak Cipta, dan Musik Sumber Terbuka"
 date: 2017-03-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/hip-hop-hak-cipta-dan-sumber-terbuka/2655755079_2ecc82821c_o.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-30 float-sm-end ms-sm-5 mt-2 mb-3">
-
-  <img src="../../uploads/2655755079_2ecc82821c_o.jpg" alt="2655755079_2ecc82821c_o.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">[Sumber gambar](https://www.flickr.com/photos/ethanhein/2655755079).</figcaption>
-
-</figure>
 
 Gaya bermain musik terus berkembang hingga hari ini, seiring dengan berkembangnya kebudayaan dan teknologi. Industri musik, dan tentu saja media amat berperan dalam pemberian label atau istilah untuk mengidentifikasi, dan mendeskripsikan tiap gaya musik. Label-label tersebut, yang lebih sering disebut sebagai *genre*, juga kerap diterapkan oleh pendengar ketika mereka berusaha untuk memetakan atau memilah koleksi rekaman musik yang mereka miliki. Salah satu genre musik yang hingga kini amat erat kaitannya dengan berkembangnya teknologi dalam kebudayaan manusia ialah **musik elektronik**.
 

@@ -1,7 +1,7 @@
 ---
 title: "Setelah Bali, Creative Commons Indonesia dan Akademi Bersama Melanjutkan Kelas Bersama di Makassar"
 date: 2013-05-05T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/setelah-bali-creative-commons-indonesia-dan-akademi-bersama-melanjutkan-kelas-bersama-di-makassar/Sesi-Penyampaian-Materi-300x199.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,9 +10,10 @@ additionalLinks: []
 draft: false
 ---
 
+
 Hari Sabtu, 4 Mei 2013, Creative Commons Indonesia dan Akademi Bersama melanjutkan Kelas Bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons di kota Makassar setelah sebelumnya mengadakan kegiatan yang serupa di Bali pada bulan April yang lalu. Makassar menjadi kota kedua dalam rangkaian acara kampanye Indonesia Timur yang dilakukan oleh Creative Commons Indonesia.
 
-<img src="../../uploads/Sesi-Penyampaian-Materi-300x199.jpg" alt="Sesi-Penyampaian-Materi-300x199.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Hak cipta itu sendiri tentunya lahir dari ide yang diekspresikan yang kemudian menghasilkan hak yakni hak atas kekayaan intelektual (HaKI). Hak ciptanya dapat berupa hak atas karya sastra, seni ataupun ilmu pengetahuan. Selain hak cipta terdapat pula hak merek, hak rahasia dagang, hak paten, hak desain industri dan hak desain tata letak terpadu (DTLT) yang termasuk dalam bagian hak kekayaan intelektual. Hak Cipta merupakan hak eksklusif bagi pencipta atau pemegang hak cipta untuk menggunakan atau memperbanyak suatu karya,  setiap karya hanya dipublikasikan dilog dengan sistem hak cipta, sehingga jika ingin mengambil harus berdasarkan izin dari pencipta karya tersebut. Beberapa karya yang dilindungi karya ciptanya seperti buku, pidato, alat peraga, perangkat lunak (software), film, seni panggung, dan lain sebagainya.
+Hak cipta itu sendiri tentunya lahir dari ide yang diekspresikan yang kemudian menghasilkan hak yakni hak atas kekayaan intelektual (HaKI). Hak ciptanya dapat berupa hak atas karya sastra, seni ataupun ilmu pengetahuan. Selain hak cipta terdapat pula hak merek, hak rahasia dagang, hak paten, hak desain industri dan hak desain tata letak terpadu (DTLT) yang termasuk dalam bagian hak kekayaan intelektual. Hak Cipta merupakan hak eksklusif bagi pencipta atau pemegang hak cipta untuk menggunakan atau memperbanyak suatu karya,  setiap karya hanya dipublikasikan dilog dengan sistem hak cipta, sehingga jika ingin mengambil harus berdasarkan izin dari pencipta karya tersebut. Beberapa karya yang dilindungi karya ciptanya seperti buku, pidato, alat peraga, perangkat lunak (software), film, seni panggung, dan lain sebagainya.
 
 Ada beberapa pihak bahkan negara yang tidak menyetujui adanya copyright karena menurut mereka aturan terhadap copyright ini terlalu kaku. Oleh karena itu, maka muncul lah istilah copyleft dan/atau copywrong. Copyleft dan/atau copywrong ini membebaskan setiap orang untuk mengambil, memperbanyak, bahkan menguangkan karya dari orang lain tanpa meminta izin dari pencipta karyanya. Kemudian muncul pula istilah creative commons yang disimbolkan dengan cc dalam lingkaran. Creative commons (cc) bagian dari hak cipta dan merupakan organisasi non profit yang menawarkan suatu model perjanjian yang sedikit-banyak menjadi penengah antara copyright dan copyleft.
 

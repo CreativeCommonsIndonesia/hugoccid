@@ -1,7 +1,7 @@
 ---
 title: "Alphabetajournal.com (@ab_journal): open your mind, share your thoughts!"
 date: 2011-12-13T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/alphabetajournal-com-open-your-mind-share-your-thoughts/350px-Heraldique_meuble_Livre_ouvert.svg.png"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -10,9 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-
-
-<img src="../../uploads/350px-H%C3%A9raldique_meuble_Livre_ouvert.svg.png" alt="350px-Héraldique_meuble_Livre_ouvert.svg.png" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4 borderless">[Alphabetajournal.com](http://alphabetajournal.com/) is an open authorship site are made based on the thought that everyone is entitled to obtain and share knowledge, art and literature for free. This site has been using CC license BY-NC-SA since the beginning of its development. Based on the type of CC license they chose, all works featured in this site can be shared and reused by anyone for free, but not for commercial purposes.
+[Alphabetajournal.com](http://alphabetajournal.com/) is an open authorship site are made based on the thought that everyone is entitled to obtain and share knowledge, art and literature for free. This site has been using CC license BY-NC-SA since the beginning of its development. Based on the type of CC license they chose, all works featured in this site can be shared and reused by anyone for free, but not for commercial purposes.
 
 To contribute, you can read the details through [this link](http://alphabetajournal.com/?page_id=656) or contact them:
 

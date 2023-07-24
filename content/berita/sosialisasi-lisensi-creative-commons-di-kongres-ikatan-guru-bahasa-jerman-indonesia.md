@@ -1,7 +1,7 @@
 ---
 title: "Sosialisasi Lisensi Creative Commons di Kongres Ikatan Guru Bahasa Jerman Indonesia"
 date: 2016-08-14T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/sosialisasi-lisensi-creative-commons-di-kongres-ikatan-guru-bahasa-jerman-indonesia/IMG-20160806-WA0001-1024x768.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/IMG-20160806-WA0001-1024x768.jpg" alt="IMG-20160806-WA0001-1024x768.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 
 

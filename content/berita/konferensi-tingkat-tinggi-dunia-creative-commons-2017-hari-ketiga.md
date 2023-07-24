@@ -1,7 +1,7 @@
 ---
 title: "Konferensi Tingkat Tinggi Dunia Creative Commons 2017 - Hari Ketiga"
 date: 2017-07-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/konferensi-tingkat-tinggi-dunia-creative-commons-2017-hari-ketiga/800px-Logo_Creative_Commons_Global_Summit_2017.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/800px-Logo_Creative_Commons_Global_Summit_2017.png" alt="800px-Logo_Creative_Commons_Global_Summit_2017.png" class="figure-img img-fluid borderless">
-
-  <figcaption class="figure-caption">Logo Creative Commons Global Summit 2017.</figcaption>
-
-</figure>
 
 Hari ketiga Konferensi merupakan hari terakhir dari rangkaian acara Konferensi Tingkat Tinggi Dunia Creative Commons 2017. Untuk mengawali hari itu, perwakilan CCID mengikuti sesi “[Jerman](https://creativecommonsglobalsummit2017t.sched.com/event/AFKS/developing-a-vision-for-ccs-legal-initiatives-whats-critical-and-exploring-paths-for-collaboration-across-the-network">Developing a Vision for CC’s Legal Initiatives: What’s critical and Exploring Paths for Collaboration Across the Network” yang difasilitasi oleh https://creativecommonsglobalsummit2017t.sched.com/speaker/dianepeters1">Diane Peters &amp; https://creativecommonsglobalsummit2017t.sched.com/speaker/tarkowski">Alek Tarkowski. Pada sesi ini peserta dibagi ke beberapa kelompok sesuai dengan tempat mereka saling berhadapan. Kemudian peserta diberikan kesempatan untuk berdiskusi dan menentukan isu terpenting yang perlu segera ditanggulangi oleh tim legal CC HQ. Salah seorang peserta dari Jerman mengeluhkan bagaimana beberapa Pencipta di https://id.wikipedia.org/wiki/Jerman) menggunakan kewajiban atribusi sebagai celah untuk melakukan pemerasan melalui pelaporan pelanggaran hak cipta. Peserta tersebut menyarankan dibuatnya tambahan ketentuan terkait kewajiban atribusi agar dapat menghapus celah pemerasan yang dapat dilakukan oleh Pencipta-Pencipta tersebut.
 

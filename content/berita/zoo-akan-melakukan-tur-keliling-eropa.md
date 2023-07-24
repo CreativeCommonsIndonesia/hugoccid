@@ -1,7 +1,7 @@
 ---
 title: "Zoo akan melakukan tur keliling Eropa!"
 date: 2017-03-08T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/zoo-akan-melakukan-tur-keliling-eropa/17022101_762857790538705_9049887835979853950_n.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/17022101_762857790538705_9049887835979853950_n.jpg" alt="17022101_762857790538705_9049887835979853950_n.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">[paling banyak diterapkan pada ciptaan-ciptaan musik di Indonesia](https://www.facebook.com/zooindonesia/">Zoo, berasal dari Yogyakarta, merupakan band eksperimental dengan karakter Indonesia yang kuat pada tembang-tembangnya. Band ini dengan konsisten mendistribusikan album-albumnya secara daring melalui https://id.wikipedia.org/wiki/Yes_No_Wave_Music">Yes No Wave Music (YNW), sebuah internet label (https://id.wikipedia.org/wiki/Netlabel">netlabel) yang juga berasal dari Yogyakarta. Dalam pendistribusian karya Zoo, YNW membuka akses kepada pendengar untuk mengunduh album tersebut secara gratis di http://yesnowave.com/artist/zoo/">situs web resmi mereka. Bersamaan dengan http://yesnowave.com/mp3-day-merayakan-20-tahun-lahirnya-mp3/">peringatan mp3day pada 14 Juli 2015 lalu, YNW melepaskan album Zoo dalam dua format, yaitu http://yesnowave.com/yesno081/">mp3 dan flac. Tiga album Zoo yang pendistribusian daringnya dilakukan oleh YNW menerapkan lisensi https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA, salah satu format yang http://bit.do/CC12K).
+
+[paling banyak diterapkan pada ciptaan-ciptaan musik di Indonesia](https://www.facebook.com/zooindonesia/">Zoo, berasal dari Yogyakarta, merupakan band eksperimental dengan karakter Indonesia yang kuat pada tembang-tembangnya. Band ini dengan konsisten mendistribusikan album-albumnya secara daring melalui https://id.wikipedia.org/wiki/Yes_No_Wave_Music">Yes No Wave Music (YNW), sebuah internet label (https://id.wikipedia.org/wiki/Netlabel">netlabel) yang juga berasal dari Yogyakarta. Dalam pendistribusian karya Zoo, YNW membuka akses kepada pendengar untuk mengunduh album tersebut secara gratis di http://yesnowave.com/artist/zoo/">situs web resmi mereka. Bersamaan dengan http://yesnowave.com/mp3-day-merayakan-20-tahun-lahirnya-mp3/">peringatan mp3day pada 14 Juli 2015 lalu, YNW melepaskan album Zoo dalam dua format, yaitu http://yesnowave.com/yesno081/">mp3 dan flac. Tiga album Zoo yang pendistribusian daringnya dilakukan oleh YNW menerapkan lisensi https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA, salah satu format yang http://bit.do/CC12K).
 
 <img src="../../uploads/by-nc-sa-38d6f9.png" alt="by-nc-sa-38d6f9.png" class="img-fluid w-25 borderless mt-3 mb-4">Lisensi ini mengizinkan Anda untuk:
 

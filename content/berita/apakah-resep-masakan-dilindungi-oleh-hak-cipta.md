@@ -1,7 +1,7 @@
 ---
 title: "Apakah resep masakan dilindungi oleh Hak Cipta?"
 date: 2016-06-19T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/apakah-resep-masakan-dilindungi-oleh-hak-cipta/3335223936_e2446f9af7_z-300x225.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/3335223936_e2446f9af7_z-300x225.jpg" alt="3335223936_e2446f9af7_z-300x225.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">[Flickr](https://creativecommons.org/licenses/by-sa/3.0/deed.id">“What’s Cookin’?”, oleh https://www.flickr.com/photos/emrank/">Emran Kassim, https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 via https://www.flickr.com/).</figcaption>
-
-</figure>
 
 **Anda hobi memasak dengan resep yang buatan sendiri?**
 

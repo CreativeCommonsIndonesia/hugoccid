@@ -10,8 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-
-
 **Ini adalah salah satu ulasan buku Budaya Bebas oleh salah satu peserta Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia. Ulasan ini diterbitkan oleh Handoko Suwono dari Surabaya dalam akun blog-nya [http://www.datacom.co.id/blog.html](http://www.datacom.co.id/blog.html). Ulasan asli dimuat dalam Bahasa Inggris “How Much Freedom Do You Need?”, namun berikut adalah ulasan yang telah diterjemahkan oleh Handoko Suwono.**
 
 “Semua orang harus diperbolehkan untuk mengekspresikan diri mereka secara bebas dan terbuka secara online, tanpa takut terputus.” Kutipan ini berulang kali disebutkan untuk menanggapi respon dari UU Pencegahan Cybercrime baru di Filipina [[1]](http://www.datacom.co.id/blog.html) yang akan membatasi ekspresi orang di internet berdasarkan hukum.

@@ -1,7 +1,7 @@
 ---
 title: "Diskusi Publik Creative Commons Indonesia, 7 Juli 2012"
 date: 2012-07-17T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/diskusi-publik-creative-commons-indonesia-7-juli-2012/561016_337841759626659_625059767_n-300x204.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/561016_337841759626659_625059767_n-300x204.jpg" alt="561016_337841759626659_625059767_n-300x204.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada tanggal 7 Juli 2012, Creative Commons Indonesia mengadakan diskusi publik yang pertama, bertempat di Pusat Studi Jepang, Universitas Indonesia, Depok. Diskusi publik ini dihadiri oleh 21 orang dari kalangan terbatas, baik perwakilan pemerintah, akademisi, maupun komunitas seni. Dalam diskusi ini, para peserta mendiskusikan [hasil pertama penerjemahan dan penyesuaian lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/2012/07/hasil-i-penerjemahan-dan-penyesuaian-teks-lisensi.html).
 

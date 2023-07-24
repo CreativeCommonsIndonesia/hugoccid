@@ -1,7 +1,7 @@
 ---
 title: "Habis? Belum? Mencari Tahu Karya yang Telah Bebas Hak Cipta"
 date: 2016-07-18T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/habis-belum-mencari-tahu-karya-yang-telah-bebas-hak-cipta/Raden_Saleh_-_Diponegoro_arrest.jpg"
 author:
   name: "Chris Woodrich"
   photo: "../../uploads/people/ccid-mosaic.svg"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
 
 Zaman sekarang sudah banyak gambar dan video yang terlepas begitu saja di Internet, tanpa kita mengetahui dari mana asal usulnya dan apakah kita bisa menggunakan gambar atau video tersebut secara bebas. Karena itu, cukup banyak foto digunakan secara asal-asalan, tanpa memperhatikan hak ciptanya.
 
@@ -23,7 +21,7 @@ Mari kita lihat contoh di bawah sebagai ilustrasi periode perlindungan hak cipta
 
 <figure class="figure w-sm-50 mt-3 mb-4">
 
-  <img src="../../uploads/Raden_Saleh_-_Diponegoro_arrest.jpg" alt="Raden_Saleh_-_Diponegoro_arrest.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Penangkapan Pangeran Diponegoro (public domain).</figcaption>
 

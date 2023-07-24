@@ -1,7 +1,7 @@
 ---
 title: "Lokakarya Sumber Pembelajaran Terbuka Bagi Pendidik di Medan"
 date: 2023-03-21T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/lokakarya-sumber-pembelajaran-terbuka-bagi-pendidik-di-medan/Lokakarya_SPT_di_Medan_04.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,16 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<!-- Figure -->
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Lokakarya_SPT_di_Medan_04.jpg" alt="Example alt text" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Raymond Sutanto, Lokakarya SPT di Medan 2023, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lokakarya_SPT_di_Medan_04.jpg), CC BY-SA 4.0</figcaption>
-
-</figure>
 
 Creative Commons Indonesia berkolaborasi bersama Balai Besar Guru Penggerak Sumatra Utara dan Duta Rumah Belajar dalam mengadakan lokakarya Sumber Pembelajaran Terbuka “Berinovasi dan Berbagi Bahan Ajar Digital”. Acara dilaksanakan pada tanggal 11 Februari 2023 di Cradle Event & Creative Space, Medan. Acara ini dihadiri 40 orang pendidik yang berasal dari kota Medan dan kabupaten/kota sekitarnya.
 

@@ -10,6 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
+
 Wikimedia Commons merupakan tempat penyimpanan (repository) yang dapat digunakan untuk menyimpan foto, diagram, animasi, musik, pidato, klip video dan berbagai jenis media lainnya. Situs ini membuka kesempatan sebesar-besarnya bagi para relawan (pengguna yang mendaftarkan diri di situs tersebut) untuk menyimpan karya-karyanya di Wikimedia Commons. Karena situs ini merupakan proyek turunan dari Wikimedia, maka situs ini juga menggunakan teknologi wiki yang memungkinkan pengguna atau orang lain untuk menyunting tiap karya yang diunggah di situs ini.  Karya-karya yang disumbangkan oleh para relawan merupakan karya-karya berlisensi terbuka, yang harapannya dapat dimanfaatkan kembali oleh orang lain, salah satunya untuk tujuan pendidikan (sebagai bahan ajar). Namun, setiap pihak yang menyalin, menggunakan, atau memodifikasi karya-karya yang ada di situs tersebut harus menerapkan Atribusi yang sesuai. Artinya setiap karya yang dimanfaatkan kembali, mewajibkan pengguna untuk menyebutkan nama pembuat karya, dan menerapkan ketentuan yang sama (lisensi) terbuka pada karya turunan yang dibuat.
 
 Sebagai tempat penyimpanan karya, Wikimedia Commons memiliki beberapa keunggulan, yakni:

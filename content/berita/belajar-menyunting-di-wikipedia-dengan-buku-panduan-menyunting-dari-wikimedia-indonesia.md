@@ -1,7 +1,7 @@
 ---
 title: "Belajar Menyunting di Wikipedia dengan Pedoman Penyuntingan Secara Manual dari Wikimedia Indonesia! (CC BY-SA)"
 date: 2017-07-11T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/belajar-menyunting-di-wikipedia-dengan-buku-panduan-menyunting-dari-wikimedia-indonesia/Sampul_Depan_Modul_Pelatihan_1.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-30 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/Sampul_Depan_Modul_Pelatihan_1.jpg" alt="Sampul_Depan_Modul_Pelatihan_1.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Sampul Modul Pelatihan Berkontribusi di Wikipedia.</figcaption>
+<figcaption class="figure-caption">Sampul Modul Pelatihan Berkontribusi di Wikipedia.</figcaption>
 
 </figure>
 

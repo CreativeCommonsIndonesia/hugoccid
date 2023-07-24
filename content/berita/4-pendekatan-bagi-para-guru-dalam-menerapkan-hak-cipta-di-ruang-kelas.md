@@ -1,7 +1,7 @@
 ---
 title: "Hak Cipta di Ruang Kelas, Tips Pendekatan Praktis untuk Guru"
 date: 2016-06-12T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/4-pendekatan-bagi-para-guru-dalam-menerapkan-hak-cipta-di-ruang-kelas/Decentralized_Basic_Education_in_Indonesia-300x200.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Decentralized_Basic_Education_in_Indonesia-300x200.jpg" alt="Decentralized_Basic_Education_in_Indonesia-300x200.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Sumber gambar USAID Indonesia (lisensi CC-0).</figcaption>
-
-</figure>
 
 Pada tanggal 11 Juni 2016 lalu saya hadir sebagai peserta di acara [Wikipedia Bahasa Indonesia](http://wikimedia.or.id/wiki/WikiLatih">WikiLatih yang diadakan di markas http://wikimedia.or.id/wiki/Halaman_Utama">Wikimedia Indonesia. Wikilatih merupakan pelatihan penulisan dan penyuntingan artikel di https://id.wikipedia.org/wiki/Halaman_Utama) yang rutin diadakan oleh Wikimedia Indonesia. Pada pelatihan tersebut saya tergabung sebagai peserta yang sudah pernah menyunting dan menyumbangkan artikel di Wikipedia Bahasa Indonesia. Kebetulan ada peserta lain yang membawa sebuah modul buatan gurunya yang ia ingin jadikan rujukan untuk artikel yang dibuatnya. Namun, modul tersebut tidak mencantumkan daftar pustaka ataupun informasi tentang penulis-penulis yang karyanya dilibatkan di modul tersebut. Setelah menimbang bahwa sumber dari modul tersebut tidak jelas, modul kemudian ditolak sebagai sumber oleh pelatih yang membawakan penulisan, karena sumber yang layak merupakan garis pedoman dalam menyumbangkan artikel di Wikipedia.
 

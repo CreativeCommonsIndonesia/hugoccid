@@ -1,7 +1,7 @@
 ---
 title: "Laporan Tahunan Terbesar Creative Commons: State of The Commons 2016"
 date: 2017-07-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/laporan-tahunan-creative-commons-state-of-the-commons-2016/state-of-the-commons-2016.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,9 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 mt-2 mb-4">
 
-  <img src="../../uploads/state%20of%20the%20commons%202016.png" alt="state of the commons 2016.png" class="figure-img img-fluid">
+<img src="../../uploads/state%20of%20the%20commons%202016.png" alt="state of the commons 2016.png" class="figure-img img-fluid">
 
   <figcaption class="figure-caption">Logo State of The Commons 2016.</figcaption>
 

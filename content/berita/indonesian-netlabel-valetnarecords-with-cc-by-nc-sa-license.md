@@ -10,8 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-
-
 [CC BY-NC-SA 3.0 license](http://valetna.wordpress.com/">Valetna Records is a record label from Semarang, Jawa Tengah, Indonesia. Valetna Records released singles from various artists and genre, under http://wiki.creativecommons.org/Licenses/by-nc-sa/3.0LegalText_%28Indonesian%29). Thus, before submitting your works to Valetna Records, you have to understand how this license affects your works.
 
 To download available music from Valetna Records, you can access [Twitter](http://valetna.wordpress.com/releases/">this link. To submit your works, you can do it through http://valetna.wordpress.com/submission/">this link. You can also contact Valetna Records directly through valetna@gmail.com, http://www.facebook.com/profile.php?id=100003035193772">Facebook or http://twitter.com/#!/valetnarecords).

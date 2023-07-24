@@ -1,7 +1,7 @@
 ---
 title: "Kumpulan Infografis dari Remotivi (CC BY-NC-SA)"
 date: 2017-03-09T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/kumpulan-infografis-dari-remotivi-cc-by-nc-sa/tentang.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/tentang.png" alt="tentang.png" class="img-fluid w-sm-25 mb-4">Remotivi merupakan sebuah pusat kajian media dan komunikasi yang berasal dari Jakarta. Lingkup kegiatan Remotivi meliputi penelitian, advokasi, dan penerbitan. Di ranah penerbitan Remotivi menerbitkan [infografis-infografis](http://www.remotivi.or.id/galeri/13/infografis) menarik dari hasil kerja pemantauan media di Indonesia. Lihat salah satu infografis produk Remotivi di bawah ini.
+
+Remotivi merupakan sebuah pusat kajian media dan komunikasi yang berasal dari Jakarta. Lingkup kegiatan Remotivi meliputi penelitian, advokasi, dan penerbitan. Di ranah penerbitan Remotivi menerbitkan [infografis-infografis](http://www.remotivi.or.id/galeri/13/infografis) menarik dari hasil kerja pemantauan media di Indonesia. Lihat salah satu infografis produk Remotivi di bawah ini.
 
 <img src="../../uploads/6eaac6a581c5746a30afc8783fecb377.png" alt="6eaac6a581c5746a30afc8783fecb377.png" class="img-fluid w-100 mt-3 mb-4">Remotivi menerapkan lisensi CC BY-NC-SA pada infografis-infografis ini, yang artinya:
 

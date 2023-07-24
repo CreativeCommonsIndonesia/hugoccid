@@ -1,7 +1,7 @@
 ---
 title: "Bottlesmoker – Þolarity (2017) berlisensi CC BY-NC-SA"
 date: 2017-03-02T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/bottlesmoker-polarity-2017-berlisensi-cc-by-nc-sa/sampul-bs.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/sampul-bs.jpg" alt="sampul-bs.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada awal bulan Februari lalu duo elektronik asal Bandung, [CC BY-NC-SA](http://bottlesmoker.asia/">Bottlesmoker, kembali melepaskan karyanya secara gratis dan terbuka. Mini album mereka yang berjudul Þolarity ini didistribusikan secara daring oleh internet label dari Iceland bernama  https://l.instagram.com/?e=ATPH4jtMdgEy1KMq2MJxKYswUXbMpw4UtUuqHQ-d8fpzTf73XKBktNXA56QhSnU&amp;u=https%3A%2F%2Fwww.thornkollektiv.cc%2F">Þ Kollektiv. Di dalam album ini terdapat 10 lagu yang terdiri dari 6 materi asli, dan 4 karya remix. Pada rilisan kali ini pun mereka menerapkan lisensi https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id), yang artinya:
 

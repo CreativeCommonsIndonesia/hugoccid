@@ -1,7 +1,7 @@
 ---
 title: "Webinar Pelatihan Komunitas Guru Hidup: Berbagi Bahan Ajar Digital"
 date: 2023-03-18T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/webinar-pelatihan-kgh-berbagi-bahan-ajar-digital/Pelatihan_KGH_1.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Pelatihan_KGH_1.png" alt="Example alt text" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Lany pirna, [Webinar Pelatihan KGH](https://commons.wikimedia.org/wiki/File:Pelatihan_KGH_1.png), Wikimedia Commons, CC BY-SA 4.0.</figcaption>
-
-</figure>
 
 Creative Commons Indonesia (CCID) bekerjasama dengan Komunitas Guru Hidup mengadakan Webinar Sumber Pembelajaran Terbuka bertajuk “Berbagi Bahan Ajar Digital dengan Lisensi Creative Commons”, yang diselenggarakan pada hari Senin, 30 Januari 2023. Webinar ini termasuk dalam salah satu rangkaian acara dalam pelatihan Komunitas Guru Hidup, yang terdiri dari tiga hari rangkaian acara. Salah satu perwakilan Komunitas Guru Hidup memberikan sambutan dan sekaligus membuka pelatihan ini.
 

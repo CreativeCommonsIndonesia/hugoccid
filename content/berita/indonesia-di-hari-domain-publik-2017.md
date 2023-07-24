@@ -1,7 +1,7 @@
 ---
 title: "Indonesia di Hari Domain Publik 2017"
 date: 2017-01-01T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/indonesia-di-hari-domain-publik-2017/Cornel_simanjuntak.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,6 +9,7 @@ author:
 additionalLinks: []
 draft: false
 ---
+
 
 Halo sobat CCID!
 
@@ -42,7 +43,7 @@ Setelah melakukan riset sederhana dengan menelusuri “[Cornel Simanjuntak](http
 
 
 
-  <img src="../../uploads/Cornel_simanjuntak.jpg" alt="Cornel_simanjuntak.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Cornel Simanjuntak ([Sumber gambar](https://id.wikipedia.org/w/index.php?title=Berkas:Cornel_simanjuntak.jpg&amp;filetimestamp=20121219093539&amp;)).</figcaption>
 

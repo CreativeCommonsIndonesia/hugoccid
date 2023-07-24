@@ -1,7 +1,7 @@
 ---
 title: "Terjemahan Buku 'Budaya Bebas' dari Lawrence Lessig dalam Bahasa Indonesia"
 date: 2012-02-29T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/terjemahan-buku-budaya-bebas-dari-lawrence-lessig-dalam-bahasa-indonesia/2012-02-25-09.41.48-1-150x150.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/2012-02-25-09.41.48-1-150x150.jpg" alt="2012-02-25-09.41.48-1-150x150.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada tanggal 25 Februari 2012, salah satu kegiatan pada [Jagongan Media Rakyat 2012](http://jmr2012.combine.or.id/) adalah bedah buku Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity (Budaya Bebas: Bagaimana Media Besar Memakai Teknologi dan Hukum untuk Membatasi Budaya dan Mengontrol Kreativitas) karya Lawrence Lessig yang diterjemahkan ke dalam Bahasa Indonesia. Buku ini diterjemahkan oleh Brigitta Isabella, Kartika Wijayanti, dan Lusiana Sari dengan Ferdiansyah Thajib sebagai editor alih bahasa. Buku ini dilisensikan di bawah lisensi CC BY-NC 1.0.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ketentuan Keterbukaan Akses European Space Agency"
 date: 2017-03-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/ketentuan-keterbukaan-akses-european-space-agency/1280px-ESA_LOGO.svg.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,7 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/1280px-ESA_LOGO.svg.png" alt="1280px-ESA_LOGO.svg.png" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4 borderless">Pada tanggal 20 Februari 2017, European Space Agency (ESA) menegaskan ketentuan Open Access (keterbukaan akses) untuk berkas audio, gambar, dan video yang mereka produksi. Selama lebih dari dua dekade, ESA telah membagikan hasil-hasil penelitiannya kepada publik melalui situs web, maupun akun jejaring sosial mereka. Ketentuan keterbukaan akses yang diterapkan ESA akan memperluas model pemanfaatan konten yang mereka bagikan kepada publik.
+Pada tanggal 20 Februari 2017, European Space Agency (ESA) menegaskan ketentuan Open Access (keterbukaan akses) untuk berkas audio, gambar, dan video yang mereka produksi. Selama lebih dari dua dekade, ESA telah membagikan hasil-hasil penelitiannya kepada publik melalui situs web, maupun akun jejaring sosial mereka. Ketentuan keterbukaan akses yang diterapkan ESA akan memperluas model pemanfaatan konten yang mereka bagikan kepada publik.
 
 Untuk mengikuti langkah yang telah diambil oleh intergovernmental organizations (IGOs) lain seperti UNESCO, WIPO, dan WHO yang telah menerapkan prinsip keterbukaan akses ESA memutuskan untuk menerbitkan konten-kontennya dengan lisensi CC BY-SA 3.0 IGO sebagai sebuah standar.
 

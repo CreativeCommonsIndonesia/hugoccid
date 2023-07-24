@@ -1,7 +1,7 @@
 ---
 title: "Prinsip Kerja Lisensi Creative Commons Di #CoverSongChallenge #Tribute2ERK"
 date: 2016-06-22T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/prinsip-kerja-lisensi-creative-commons-di-coversongchallenge-tribute2erk/poster-tribute2erk-square-300x300.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,11 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/poster-tribute2erk-square-300x300.png" alt="poster-tribute2erk-square-300x300.png" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Poster #tribute2ERK.</figcaption>
+<figcaption class="figure-caption">Poster #tribute2ERK.</figcaption>
 
 </figure>
 

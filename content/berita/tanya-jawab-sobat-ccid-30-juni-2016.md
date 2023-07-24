@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID 30 Juni 2016"
 date: 2016-07-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-30-juni-2016/Edo-W-Adithyawarman.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/Edo-W-Adithyawarman.jpg" alt="Edo-W-Adithyawarman.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Pada facebook [Edo W Adithyawarman](https://www.facebook.com/CreativeCommonsIndonesia/">Creative Commons Indonesia, https://www.facebook.com/lonely.davinci) bertanya mengenai lisensi Creative Commons:
+
+Pada facebook [Edo W Adithyawarman](https://www.facebook.com/CreativeCommonsIndonesia/">Creative Commons Indonesia, https://www.facebook.com/lonely.davinci) bertanya mengenai lisensi Creative Commons:
 
 **“Halo, saya Edo, mau tanya…
 

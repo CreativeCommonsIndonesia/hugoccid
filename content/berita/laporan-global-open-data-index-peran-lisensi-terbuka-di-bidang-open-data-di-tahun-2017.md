@@ -1,7 +1,7 @@
 ---
 title: "Laporan Global Open Data Index: Peran Lisensi Terbuka di Bidang Data Terbuka pada Tahun 2017"
 date: 2017-07-21T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/laporan-global-open-data-index-peran-lisensi-terbuka-di-bidang-open-data-di-tahun-2017/GODI.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,11 +10,12 @@ additionalLinks: []
 draft: false
 ---
 
+
 Artikel ini merupakan terjemahan dari artikel “[Global Open Data Index](https://blog.okfn.org/2017/06/08/the-state-of-open-licensing-in-2017/">The state of open licensing in 2017” yang dipublikasikan oleh https://index.okfn.org/) (GODI).
 
 Pertama-tama, [data terbuka](https://id.wikipedia.org/wiki/Artikel">artikel ini akan membahas apa itu https://id.wikipedia.org/wiki/Lisensi">lisensi terbuka dan apa kegunaannya dalam penyediaan https://id.wikipedia.org/wiki/Data">data terbuka. https://id.wikipedia.org/wiki/Penulis">Penulis artikel, https://blog.okfn.org/author/dannylammerhirt/">Danny Lämmerhirt and https://www.rd-alliance.org/users/vdb">Freyja van den Boom, kemudian memberikan 10 rekomendasi untuk diperhatikan oleh para pegiat https://id.wikipedia.org/wiki/Data_terbuka) dalam memberikan advokasi dalam penyediaan data terbuka, khususnya terkait pelisensian data terbuka.
 
-<img src="../../uploads/GODI.png" alt="GODI.png" class="img-fluid w-100 mt-3 mb-4">Data terbuka harus **[dapat digunakan kembali](http://opendefinition.org/)** oleh siapapun, untuk kepentingan apapun, dan dapat diakses secara gratis oleh para penggunanya. Namun, terkadang peraturan-peraturan yang ada memblokade proses penggunaan data tersebut.
+Data terbuka harus **[dapat digunakan kembali](http://opendefinition.org/)** oleh siapapun, untuk kepentingan apapun, dan dapat diakses secara gratis oleh para penggunanya. Namun, terkadang peraturan-peraturan yang ada memblokade proses penggunaan data tersebut.
 
 Pihak manapun yang hendak menggunakan data yang disediakan perlu mengetahui bahwa mereka berhak untuk menggunakan data tersebut. Para peneliti tidak akan menggunakan data milik orang lain jika mereka tidak yakin bahwa mereka tidak sedang melanggar hak cipta. Sebagai contoh, seseorang membutuhkan data-data tentang pajak yang dibayarkan oleh korporasi multinasional di berbagai negara untuk kemudian dibuatkan visualisasinya. Orang ini tidak akan dapat melakukan hal tersebut, kecuali mereka mengetahui lisensi (model perizinan. Red) apa yang diterapkan pada kumpulan data tersebut. Penerapan lisensi terbuka dengan ketentuan paling bebas yang diikuti dengan penyediaan penjelasan izin penggunaan atas diterapkannya lisensi tersebut, sangat dibutuhkan dalam proses pemanfaatan data.
 

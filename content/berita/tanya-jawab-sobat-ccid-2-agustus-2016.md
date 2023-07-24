@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID "
 date: 2016-08-02T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-2-agustus-2016/Sobat-Biondy-Alfian.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/Sobat-Biondy-Alfian.jpg" alt="Sobat-Biondy-Alfian.jpg" class="img-fluid w-sm-50 mt-2 mb-4">Pada [Biondy Alfian](https://www.facebook.com/CreativeCommonsIndonesia/posts/1038296166247878">facebook Creative Commons Indonesia, https://www.facebook.com/biondy.alfian?fref=nf) mengajukan pertanyaan tentang ketentuan “Penggunaan Wajar” di Indonesia:
+
+Pada [Biondy Alfian](https://www.facebook.com/CreativeCommonsIndonesia/posts/1038296166247878">facebook Creative Commons Indonesia, https://www.facebook.com/biondy.alfian?fref=nf) mengajukan pertanyaan tentang ketentuan “Penggunaan Wajar” di Indonesia:
 
 **“Halo, Admin. Bagaimana ketentuan dan penerapan “Penggunaan Wajar” atau “Fair Use” di Indonesia? Apakah Creative Commons Indonesia menyediakan artikel terkait hal ini? Terima kasih”**
 

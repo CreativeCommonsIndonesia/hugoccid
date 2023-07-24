@@ -1,7 +1,7 @@
 ---
 title: "3000++ foto keindahan alam Indonesia oleh peserta kompetisi Wiki Cinta Alam Indonesia 2017!"
 date: 2017-07-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/3000-plus-plus-foto-keindahan-alam-indonesia-oleh-peserta-kompetisi-wiki-cinta-alam-indonesia-2017/WCAI.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/WCAI.png" alt="WCAI.png" class="figure-img img-fluid borderless">
-
-  <figcaption class="figure-caption">Logo Wiki Cinta Alam Indonesia 2017.</figcaption>
-
-</figure>
 
 Wiki Cinta Alam Indonesia (WCAI) 2017 adalah kompetisi fotografi bentang alam Indonesia, baik flora maupun fauna, yang diadakan di Indonesia secara daring selama 30 hari pada bulan Juni 2017. Kompetisi ini merupakan versi lokal dari Wiki Loves Earth, perlombaan foto bentang alam yang diadakan setiap tahun oleh Wikimedia Foundation. Foto pemenang utama dari kompetisi WCAI 2017 akan diikutsertakan dalam kompetisi Wiki Loves Earth International pada bulan Juli 2017. Salah satu tujuan diadakannya lomba ini adalah untuk menambah sekaligus menjaring koleksi foto bentang alam berlisensi bebas di Wikimedia Commons.
 

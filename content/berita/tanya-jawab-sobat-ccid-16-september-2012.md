@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID 16 September 2012"
 date: 2012-09-21T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-16-september-2012/pertanyaan-sahabat-CC-crop3.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/pertanyaan-sahabat-CC-crop3.jpg" alt="pertanyaan-sahabat-CC-crop3.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada facebook Creative Commons Indonesia, Didi Prambadi dari www.belajargratis.org bertanya untuk lisensi Creative Commons :
 

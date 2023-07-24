@@ -1,7 +1,7 @@
 ---
 title: "Selamat Datang di Jakarta Creative Commons Asia Pasifik!"
 date: 2012-11-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/selamat-datang-di-jakarta-creative-commons-asia-pasifik/CCkorea-tiba5.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -11,8 +11,7 @@ draft: false
 ---
 
 
-
-<img src="../../uploads/CCkorea-tiba5.jpg" alt="CCkorea-tiba5.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4"><img src="../../uploads/annefitzgerald-225x300.jpg" alt="annefitzgerald-225x300.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4"><img src="../../uploads/katwalsh-225x300.jpg" alt="katwalsh-225x300.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">Pada tanggal 9 November 2012 kemarin, telah tiba teman-teman dari afiliasi-afiliasi Creative Commons Asia Pasifik yang akan menghadiri Regional Meeting tahun 2012, yang juga merupakan rangkaian acara dari Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia.
+<img src="../../uploads/annefitzgerald-225x300.jpg" alt="annefitzgerald-225x300.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4"><img src="../../uploads/katwalsh-225x300.jpg" alt="katwalsh-225x300.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">Pada tanggal 9 November 2012 kemarin, telah tiba teman-teman dari afiliasi-afiliasi Creative Commons Asia Pasifik yang akan menghadiri Regional Meeting tahun 2012, yang juga merupakan rangkaian acara dari Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia.
 
 Selamat datang CC Korea!
 

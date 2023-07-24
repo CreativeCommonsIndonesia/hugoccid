@@ -1,7 +1,7 @@
 ---
 title: "Sajian Data Global Berlisensi Terbuka oleh ourworldindata.org<"
 date: 2017-04-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/sajian-data-global-berlisensi-cc-by-oleh-ourworldindata-dot-org/OurWorldInData.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/OurWorldInData.png" alt="OurWorldInData.png" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Our World In Data (OWID) merupakan penerbitan daring yang menyajikan kumpulan data dengan lisensi terbuka. Tujuan mereka adalah untuk mewartakan perkembangan dunia dari sudut pandang global kepada para pencari data seluas mungkin.
 

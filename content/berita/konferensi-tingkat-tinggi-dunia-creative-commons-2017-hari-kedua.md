@@ -1,7 +1,7 @@
 ---
 title: "Konferensi Tingkat Tinggi Dunia Creative Commons 2017 - Hari Kedua"
 date: 2017-07-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/konferensi-tingkat-tinggi-dunia-creative-commons-2017-hari-kedua/800px-Logo_Creative_Commons_Global_Summit_2017.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/800px-Logo_Creative_Commons_Global_Summit_2017.png" alt="800px-Logo_Creative_Commons_Global_Summit_2017.png" class="figure-img img-fluid borderless">
-
-  <figcaption class="figure-caption">Logo Creative Commons Global Summit 2017.</figcaption>
-
-</figure>
 
 Hari kedua konferensi dimulai dengan sesi-sesi terpisah yang diadakan di setiap ruangan lantai 2 dan 3 [OER](https://en.wikipedia.org/wiki/Delta_Toronto_Hotel">Hotel Delta Toronto. Sesi pertama yang diikuti oleh perwakilan CCID adalah https://creativecommonsglobalsummit2017t.sched.com/event/AF0C/an-explosion-of-languages-and-versions-of-early-literacy-content-saides-african-storybook-initiative-pratham-books-storyweaver-book-dash">An Explosion of Languages and Versions of Early Literacy Content yang difasilitasi oleh https://creativecommonsglobalsummit2017t.sched.com/tessaw">Tessa Welch (http://www.africanstorybook.org/">African Storybook Initiative) dan Purvi Shah (https://twitter.com/prathambooks">Pratham Books). Tessa dan Purvi memberikan 3 hal yang menjadi hal pokok dalam penyediaan sumber pendidikan terbuka (https://en.wikipedia.org/wiki/Open_educational_resources)) dengan muatan lokal. Tiga hal tersebut adalah Target, Effectivity (efektifitas), dan Parnters (rekanan). Target artinya adalah kita harus memastikan bahwa materi pendidikan ini dapat digunakan dan memang disediakan untuk semua orang. Selain itu sebaiknya konten tersedia dalam bahasa yang diakrabi oleh pembaca, misalnya bahasa daerah yang sehari-hari digunakan oleh pembaca. Dengan begitu konten-konten tersebut akan menjadi sepenuhnya terbuka, yaitu konten-konten yang berbicara tentang ketertarikan serta pengalaman sehari-hari para pembacanya. Setelah itu baru kita memetakan efektifitas penyebaran konten, penyebaran harus disesuaikan dengan kondisi suatu negara, untuk kemudian dapat diputuskan konten akan disediakan secara digital atau fisik. Setelah konten sukses dibuat dan diumumkan, kita kemudian dapat mulai mencari rekanan untuk membantu persebaran konten, misalnya para peneliti, penerbit konten pembelajaran daring, perpustakaan, atau bahkan lembaga pendidikan pemerintah setingkat kementrian.
 

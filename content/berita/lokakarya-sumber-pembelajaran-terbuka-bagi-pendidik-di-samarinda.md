@@ -1,7 +1,7 @@
 ---
 title: "Lokakarya Sumber Pembelajaran Terbuka Bagi Pendidik di Samarinda"
 date: 2023-03-02T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/lokakarya-sumber-pembelajaran-terbuka-bagi-pendidik-di-samarinda/Lokakarya_SPT_di_Samarinda_6.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Lokakarya_SPT_di_Samarinda_6.jpg" alt="Example alt text" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Fitri Penyalai, [Lokakarya SPT di Samarinda](https://commons.wikimedia.org/wiki/File:Lokakarya_SPT_di_Samarinda_6.jpg), Wikimedia Commons, CC BY-SA 4.0.</figcaption>
-
-</figure>
 
 Creative Commons Indonesia mengadakan lokakarya sumber pembelajaran terbuka (SPT) yang bekerja sama dengan komunitas duta rumah belajar Samarinda pada 28 Januari 2023. Lokakarya SPT yang bertajuk “Berinovasi dan Berbagi Bahan Ajar Digital” ini dibuka oleh Ibu Wiwik Setiawati, M.Pd selaku Kepala Balai Guru Penggerak Kalimantan Timur. Narasumber pertama yakni Muhammad Yahya yang merupakan Duta Rumah Belajar Kalimantan Timur dengan judul “Berinovasi Bahan Ajar Digital”. Pada pemaparannya dijelaskan mengenai bagaimana agar pendidik dapat berinovasi dalam membuat bahan ajar digital dan dibahas pula mengenai AR yang menjadi keahlian Pak Yahya. Kemudian dijelaskan mengenai jenis-jenis bahan ajar daring, apa saja yang diperlukan dalam membuat bahan ajar daring hingga peralatan apa saja yang dapat digunakan dalam membuatnya.
 
@@ -24,27 +17,16 @@ Selanjutnya, dalam mendesain bahan ajar daring dijelaskan oleh Pak Yahya bahwa d
 
 <!-- Figure group example -->
 
-<figure class="figure mt-3 mb-4">
 
-    <img src="../../uploads/Lokakarya_SPT_di_Samarinda_7.jpg" alt="Example alt text" class="figure-img img-fluid w-sm-31 mb-4 mb-sm-0">
 
-    <img src="../../uploads/Lokakarya_SPT_di_Samarinda_9.jpg" alt="Example alt text" class="figure-img img-fluid w-sm-31">
+<img src="../../uploads/Lokakarya_SPT_di_Samarinda_7.jpg" alt="Doc. 1" class="figure-img img-fluid w-sm-31 mb-4 mb-sm-0">
 
-    <img src="../../uploads/Lokakarya_SPT_di_Samarinda_10.jpg" alt="Example alt text" class="figure-img img-fluid w-sm-31">
+<img src="../../uploads/Lokakarya_SPT_di_Samarinda_9.jpg" alt="Doc. 2" class="figure-img img-fluid w-sm-31">
 
-  </div>
+<img src="../../uploads/Lokakarya_SPT_di_Samarinda_10.jpg" alt="Doc. 3" class="figure-img img-fluid w-sm-31">
 
-</figure>
+<iframe class="w-sm-50 float-end ms-sm-5 mt-3" src="https://www.youtube.com/embed/W-yIBcH9kxA" style="height: 400px;" title="YouTube video" allowfullscreen></iframe>
 
-<figure class="figure w-sm-50 float-end ms-sm-5 mt-3">
-
-         <iframe src="https://www.youtube.com/embed/W-yIBcH9kxA" title="YouTube video" allowfullscreen></iframe>
-
-    </div>
-
-  <figcaption class="figure-caption">Video perkenalan CCID oleh Komunitas Rumah Belajar Kalimantan Timur.</figcaption>
-
-</figure>
 
 Untuk itu, di materi kedua dengan judul “ Berbagi Bahan Ajar dengan Lisensi Creative Commons” dijelaskan oleh Fitriayu dan Raymond Sutanto. Pada penjelasan diawali dengan permainan kuis miskonsepsi Hak Cipta, dimana 21 peserta, yang merupakan pendidik, dibagi menjadi 4 kelompok dan menjawab 6 pernyataan terkait hak cipta dengan jawaban benar atau salah. Setelah itu, dilanjutkan dengan penjelasan lisensi Creative Commons.
 

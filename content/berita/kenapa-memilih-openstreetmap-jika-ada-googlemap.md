@@ -1,7 +1,7 @@
 ---
 title: "Kenapa memilih OpenStreetMap jika ada GoogleMap?"
 date: 2016-08-24T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/kenapa-memilih-openstreetmap-jika-ada-googlemap/Cibubur-Menteng.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,13 +10,14 @@ additionalLinks: []
 draft: false
 ---
 
+
 **Apa itu Open Street Map?**
 
 Sebagai seorang pembuat peta, atau seseorang yang membutuhkan informasi terkait lokasi suatu tempat, Anda akan dihadapkan pada dua pilihan aplikasi: [OpenStreetMap](https://www.google.co.id/maps?source=tldsi&amp;hl=en">Google Maps atau https://www.openstreetmap.org/#map=12/-6.2757/106.8578)?
 
 Yang kemudian diikuti dengan pertanyaan: “Kenapa menggunakan OpenStreetMap jika ada Google Maps?”
 
-<img src="../../uploads/Cibubur-Menteng.jpg" alt="Cibubur-Menteng.jpg" class="img-fluid w-100 mt-3 mb-4">Belum ada jawaban otoritatif tentang aplikasi mana yang lebih baik. Karena, sebenarnya kedua program ini memiliki banyak kesamaan. Terutama dalam urusan untuk menjawab kebutuhan informasi tentang letak suatu tempat. Perbedaan filosofis antara dua program ini adalah pendekatan “Open” (Terbuka) dan “Closed” (Tertutup) dalam aktivitas pengumpulan dan pendistribusian data.
+Belum ada jawaban otoritatif tentang aplikasi mana yang lebih baik. Karena, sebenarnya kedua program ini memiliki banyak kesamaan. Terutama dalam urusan untuk menjawab kebutuhan informasi tentang letak suatu tempat. Perbedaan filosofis antara dua program ini adalah pendekatan “Open” (Terbuka) dan “Closed” (Tertutup) dalam aktivitas pengumpulan dan pendistribusian data.
 
 [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) (OSM) lahir di Inggris pada tahun 2004, ketika sumber data sebagai acuan pembuatan peta sangat dikuasai oleh pemerintah. Kesempatan pihak sipil untuk mengakses data-data ini sangat dibatasi. Biaya aksesnya pun tinggi, sehingga data-data ini lebih sering diakses oleh perusahaan besar. OSM mengembangkan sistem yang mirip dengan wikipedia, sehingga para penggunanya dapat mengakses peta secara gratis, sekaligus menyunting peta tersebut di dalam jaringan. Kemudahan penggunaan yang diikuti oleh kebutuhan akan sumber data peta terbuka, meningkatkan jumlah pengguna OSM sebanyak 2,2 juta pengguna.
 

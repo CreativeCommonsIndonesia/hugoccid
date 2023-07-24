@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID 4 Oktober 2012"
 date: 2012-10-15T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-4-oktober-2012/Pertanyaan-4-Oktober-2012.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -11,8 +11,7 @@ draft: false
 ---
 
 
-
-<img src="../../uploads/Pertanyaan-4-Oktober-2012.jpg" alt="Pertanyaan-4-Oktober-2012.jpg" class="img-fluid w-sm-50 mt-2 mb-4">Pada facebook [Ridhani Agustam](http://http//www.facebook.com/CreativeCommonsIndonesia">Creative Commons Indonesia, http://www.facebook.com/ridhani.agustama)a bertanya mengenai lisensi Creative Commons:
+Pada facebook [Ridhani Agustam](http://http//www.facebook.com/CreativeCommonsIndonesia">Creative Commons Indonesia, http://www.facebook.com/ridhani.agustama)a bertanya mengenai lisensi Creative Commons:
 
 **“Bedanya lisensi Creative Commons dengan All Right Reserved gimana ya mas? Jadi gini, ada band temen [Afternoon Coffee](http://www.facebook.com/afternooncoffee.band) share musik di soundcloud, nah mereka bingung pas disuruh milih lisensi antara Creative Commons ama All Right Reserved. Thanks”**
 

@@ -1,7 +1,7 @@
 ---
 title: "Wahai Para Guru: Hak Cipta Penting Bagi Anda"
 date: 2016-06-12T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/wahai-para-guru-hak-cipta-penting-bagi-anda/Stamps_of_Indonesia_080-04-185x300.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,13 +10,14 @@ additionalLinks: []
 draft: false
 ---
 
+
 Tulisan ini adalah bagian pertama dari serial pendidikan dan hak cipta yang dibuat oleh Lisette Kalshoven. Di samping pemikiran-pemikiran tentang bagaimana kita seharusnya mengatur hak cipta dan pendidikan di abad 21, juga ditulis tentang tips praktis untuk para guru dalam menghadapi pembatasan-pembatasan yang dibuat oleh hak cipta.
 
 **Pendidikan telah berubah**
 
 <figure class="figure w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">
 
-  <img src="../../uploads/Stamps_of_Indonesia_080-04-185x300.jpg" alt="Stamps_of_Indonesia_080-04-185x300.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Gambar perangko adalah milik [Lisensi CC-0](https://upload.wikimedia.org/wikipedia/commons/5/53/Stamps_of_Indonesia%2C_080-04.jpg">pemerintah Indonesia dan untuk disebarluaskan. https://commons.wikimedia.org/wiki/Template:PD-IDGov/id).</figcaption>
 

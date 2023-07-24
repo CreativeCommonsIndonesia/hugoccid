@@ -1,7 +1,7 @@
 ---
 title: "Lokakarya Wikimedia Commons: Pengarsipan serta Pemanfaatan Konten Terbuka dan Bebas Hak Cipta"
 date: 2016-08-14T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/lokakarya-wikimedia-commons-pengarsipan-serta-pemanfaatan-konten-terbuka-dan-bebas-hak-cipta/lokakaryacommons_2-1024x768.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/lokakaryacommons_2-1024x768.jpg" alt="lokakaryacommons_2-1024x768.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Lokakarya ini bertujuan untuk mengenalkan fungsi pengarsipan dan pemanfaatan konten yang ada di Wikimedia Commons. Acara ini diperuntukan bagi segala kalangan yang memiliki ketertarikan mengenai pengarsipan, pemanfaatan, dan kegiatan berbagi konten secara legal di Internet.
+
+Lokakarya ini bertujuan untuk mengenalkan fungsi pengarsipan dan pemanfaatan konten yang ada di Wikimedia Commons. Acara ini diperuntukan bagi segala kalangan yang memiliki ketertarikan mengenai pengarsipan, pemanfaatan, dan kegiatan berbagi konten secara legal di Internet.
 
 Acara ini juga ingin memberikan penjelasan tentang konten terbuka, dan konten yang sudah bebas hak cipta. Dalam penjelasan tersebut, pemateri juga akan memberikan penjelasan terkait ketentuan-ketentuan lisensi Creative Commons yang disediakan oleh Wikimedia Commons.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kisah Pembebasan Lagu 'Happy Birthday' Ke Domain Publik"
 date: 2016-08-01T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/kisah-pembebasan-lagu-happy-birthday-ke-domain-publik/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg" alt="A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Lirik lagu "Good Morning To You-Happy Birthday" dari buku "Everyday Song Book". ([Sumber gambar](http://www.latimes.com/local/lanow/la-me-ln-happy-birthday-song-lawsuit-decision-20150922-story.html), foto oleh Christine Mai-Duc)</figcaption>
-
-</figure>
 
 Pada bulan September 2015, hakim George H. King [Happy Birthday](http://documents.latimes.com/happy-birthday-ruling/">memutuskan bahwa lagu “https://youtu.be/MzrLNrXaWYA)” resmi berstatus domain publik. Produk hukum ini lahir oleh karena upaya Jennifer Nelson dan tim pengacaranya yang memperkarakan penarikan biaya sebanyak **1500 Dollar AS** terhadap penggunaan lagu “Happy Birthday”. Jennifer bermaksud menggunakan lagu tersebut pada film yang diproduksi bersama timnya di Good Morning To You Productions. Film tersebut dibuat untuk menceritakan sejarah lagu itu sendiri.
 

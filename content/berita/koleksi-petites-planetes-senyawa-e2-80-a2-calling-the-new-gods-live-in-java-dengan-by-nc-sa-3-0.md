@@ -1,7 +1,7 @@
 ---
 title: "Koleksi Petites Planètes Senyawa"
 date: 2016-05-18T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/koleksi-petites-planetes-senyawa-e2-80-a2-calling-the-new-gods-live-in-java-dengan-by-nc-sa-3-0/a1896700526_16.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,13 @@ additionalLinks: []
 draft: false
 ---
 
-
-
   
 
 
 
 <figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
 
-  <img src="../../uploads/a1896700526_16.jpg" alt="a1896700526_16.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">[Sumber gambar](http://petitesplanetes.bandcamp.com/album/senyawa-o-calling-the-new-gods-live-in-java).</figcaption>
 

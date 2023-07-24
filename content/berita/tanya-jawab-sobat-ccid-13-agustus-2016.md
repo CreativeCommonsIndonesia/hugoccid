@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID 13 Agustus 2016"
 date: 2016-08-22T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-13-agustus-2016/cats-2.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/cats-2.jpg" alt="cats-2.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada twitter Creative Commons Indonesia, @DinaDinotz mengajukan pertanyaan tentang hak cipta dan lisensi Creative Commons:
 

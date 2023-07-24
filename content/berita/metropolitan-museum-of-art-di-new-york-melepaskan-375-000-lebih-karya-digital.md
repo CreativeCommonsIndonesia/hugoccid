@@ -1,7 +1,7 @@
 ---
 title: "Metropolitan Museum of Art di New York melepaskan 375.000 lebih karya digital! (CC0)"
 date: 2017-03-02T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/metropolitan-museum-of-art-di-new-york-melepaskan-375-000-lebih-karya-digital/the_met_logo.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/the_met_logo.png" alt="the_met_logo.png" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Pada tanggal 7 Februari 2017 lalu, [tautan ini](http://www.metmuseum.org/">Metropolitan Museum of Art (MET) melepaskan koleksi-koleksinya yang telah habis masa berlaku hak ciptanya secara daring dengan lisensi https://creativecommons.org/share-your-work/public-domain/cc0/">CC0. Selain terdapat 375.000 gambar, MET juga merilis 420.000 data obyek museumnya. CC0 memungkinkan penggunaan kembali suatu ciptaan tanpa syarat apapun. Hal ini akan menjadi penanda zaman bahwa MET merupakan salah satu museum terbuka yang paling penting di dunia. Anda dapat mengakses koleksi MET di http://www.metmuseum.org/art/collection">tautan ini, dan membaca ketentuan mengenai akses terbuka MET di http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources).
 

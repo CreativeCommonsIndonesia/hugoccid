@@ -1,7 +1,7 @@
 ---
 title: "Strategi Lanjutan Pengadaan Sumber Pembelajaran Terbuka oleh Cable Green!"
 date: 2017-03-20T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/strategi-lanjutan-pengadaan-sumber-pembelajaran-terbuka-oleh-cable-green/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg" alt="OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">[CC BY](https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia oleh https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin, https://creativecommons.org/licenses/by/3.0/deed.en).</figcaption>
-
-</figure>
 
 Pendidikan Terbuka menjadi salah satu solusi yang baik di ranah pendidikan tingkat dasar hingga menengah maupun pendidikan tinggi (*daring maupun luring*.red) untuk membuat biaya pendidikan menjadi lebih terjangkau. Pengeluaran untuk membeli buku pelajaran merupakan salah satu beban finansial yang dirasakan oleh pelajar di seluruh dunia.
 

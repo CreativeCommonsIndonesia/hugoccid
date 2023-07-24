@@ -1,7 +1,7 @@
 ---
 title: "Kabar Duka: Bassel Khartabil (CC Suriah) Dieksekusi"
 date: 2017-08-02T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/berita-kematian-bassel-khartabil-cc-suriah-dieksekusi/5114101621_49f2dc813b_b.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/5114101621_49f2dc813b_b.jpg" alt="5114101621_49f2dc813b_b.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">[Mohammed Nanabhay](https://www.flickr.com/photos/mohamedn/5114101621">Bassel Khartabil oleh https://www.flickr.com/photos/mohamedn/).</figcaption>
-
-</figure>
 
 Dilansir dari [CC Suriah](https://creativecommons.org/2017/08/01/bassel/">situs web Creative Commons Internasional, hari ini (2/8/2017), https://en.wikipedia.org/wiki/Bassel_Khartabil">Bassel Khartabil (https://creativecommons.org/tag/cc-syria/)) telah resmi dinyatakan meninggal dunia, dieksekusi oleh rezim Bashar Al Assad penguasa Suriah.
 

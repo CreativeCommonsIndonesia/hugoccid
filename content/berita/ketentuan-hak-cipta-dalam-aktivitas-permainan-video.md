@@ -1,7 +1,7 @@
 ---
 title: "Ketentuan Hak Cipta Dalam Aktivitas Permainan Video"
 date: 2016-09-08T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/ketentuan-hak-cipta-dalam-aktivitas-permainan-video/1069908_20130114114820-1024x768.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,6 +9,7 @@ author:
 additionalLinks: []
 draft: false
 ---
+
 
 **Menurut pasal 40 huruf Undang-Undang No. 28 Tahun 2014 (UUHC 2014), permainan video merupakan obyek perlindungan hak cipta.**
 
@@ -26,7 +27,7 @@ Dalam prakteknya, pihak pengelola tempat persewaan menyediakan kopian dari suatu
 
 <figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
 
-  <img src="../../uploads/1069908_20130114114820-1024x768.jpg" alt="1069908_20130114114820-1024x768.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Permainan video "bajakan" untuk komputer personal. ([Sumber gambar.](http://fjb.kaskus.co.id/product/50b4422ce974b4aa190000c5/jual-game-pc-murah-terpercaya-update-cepat-bandung---jne/))</figcaption>
 

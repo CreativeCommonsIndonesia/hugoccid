@@ -10,6 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengkampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 Selama kontes berlangsung telah terkumpul 21 karya yang luar biasa, para peserta kontes tidak hanya mendesain tapi juga menghayati dan menarasikan kembali tema Sumber Pembelajaran Terbuka dengan ciri khasnya masing-masing. Sesuai dengan tujuan awal kontes ini, maka 21 karya cukup menjadi bahan baku untuk mengkampanyekan SPT di Indonesia, khususnya melalui media sosial. Karya-karya peserta dapat diakses pada [tautan berikut ini.](https://lumbung.gimpscape.org/tags/adicita/).

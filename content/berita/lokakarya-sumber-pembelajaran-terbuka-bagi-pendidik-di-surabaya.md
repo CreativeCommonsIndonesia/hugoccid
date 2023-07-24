@@ -1,7 +1,7 @@
 ---
 title: "Lokakarya Sumber Pembelajaran Terbuka bagi Pendidik di Surabaya"
 date: 2023-03-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/lokakarya-sumber-pembelajaran-terbuka-bagi-pendidik-di-surabaya/Lokakarya_SPT_Surabaya_1.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Lokakarya_SPT_Surabaya_1.jpg" alt="Example alt text" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Lany pirna, [Lokakarya SPT di Surabaya](https://commons.wikimedia.org/wiki/File:Lokakarya_SPT_Surabaya_1.jpg), Wikimedia Commons, CC BY-SA 4.0.</figcaption>
-
-</figure>
 
 Creative Commons Indonesia (CCID) bekerjasama dengan Media Guru dalam mengadakan lokakarya Sumber Pembelajaran Terbuka. Acara yang diselenggarakan di BBPMP Jawa Timur dibuka dengan sambutan dari Pak Muhammad Yasin sebagai perwakilan dari Media Guru. Pada kesempatan tersebut, Pak Yasin turut serta menginformasikan kontribusi para pendidik yang tergabung di Media Guru dalam penulisan buku yang diunggah pada platform Bintang Pustaka.
 

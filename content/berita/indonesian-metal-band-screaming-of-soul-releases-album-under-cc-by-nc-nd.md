@@ -1,7 +1,7 @@
 ---
 title: "Indonesian metal band, Screaming of Soul, releases album under CC BY-NC-ND"
 date: 2012-02-13T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/indonesian-metal-band-screaming-of-soul-releases-album-under-cc-by-nc-nd/demo-release-2011-flyer-web.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -10,15 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-
-
-<figure class="figure w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/demo-release-2011-flyer-web.jpg" alt="demo-release-2011-flyer-web.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Screaming of Soul / Valetna Records / CC BY-NC-SA 3.0.</figcaption>
+<figcaption class="figure-caption">Screaming of Soul / Valetna Records / CC BY-NC-SA 3.0.</figcaption>
 
 </figure>
 

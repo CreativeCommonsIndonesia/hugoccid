@@ -1,7 +1,7 @@
 ---
 title: "Tanya Jawab Sobat CCID 2 Juli 2016"
 date: 2016-07-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/tanya-jawab-sobat-ccid-2-juli-2016/Rizky-Luthfianto-2.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/Rizky-Luthfianto-2.jpg" alt="Rizky-Luthfianto-2.jpg" class="img-fluid w-sm-50 mt-2 mb-4">Pada [Rizky Luthfianto](https://twitter.com/CC_ID">twitter Creative Commons Indonesia, https://twitter.com/rilut) mengajukan pertanyaan tentang hak cipta dan Creative Commons:
+
+Pada [Rizky Luthfianto](https://twitter.com/CC_ID">twitter Creative Commons Indonesia, https://twitter.com/rilut) mengajukan pertanyaan tentang hak cipta dan Creative Commons:
 
 **“Kita tidak boleh melepaskan hak cipta, tetapi apakah kita tetap bisa menyerahkan/memindahkan/mengalihkan hak cipta?**
 

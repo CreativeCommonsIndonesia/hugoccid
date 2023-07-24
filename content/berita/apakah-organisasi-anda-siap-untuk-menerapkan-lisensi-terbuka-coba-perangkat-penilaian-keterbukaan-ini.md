@@ -1,7 +1,7 @@
 ---
 title: "Apakah organisasi Anda siap untuk menerapkan lisensi terbuka? Coba perangkat penilaian keterbukaan ini!"
 date: 2017-03-17T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/apakah-organisasi-anda-siap-untuk-menerapkan-lisensi-terbuka-coba-perangkat-penilaian-keterbukaan-ini/WebRights.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/WebRights.jpg" alt="WebRights.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Apakah organisasi Anda berencana untuk menerapkan lisensi terbuka pada produk-produknya?
 

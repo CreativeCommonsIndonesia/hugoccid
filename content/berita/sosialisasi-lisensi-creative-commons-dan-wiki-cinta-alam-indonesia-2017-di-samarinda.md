@@ -1,7 +1,7 @@
 ---
 title: "Sosialisasi Lisensi Creative Commons dan Wiki Cinta Alam Indonesia 2017 di Samarinda"
 date: 2017-07-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/sosialisasi-lisensi-creative-commons-dan-wiki-cinta-alam-indonesia-2017-di-samarinda/18447084_10208701307025253_4530646881030859155_n.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-35 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/18447084_10208701307025253_4530646881030859155_n.jpg" alt="18447084_10208701307025253_4530646881030859155_n.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Poster Acara Sosialisasi Lisensi CC dan Wiki Cinta Alam Indonesia 2017 di Samarinda.</figcaption>
-
-</figure>
 
 Pada tanggal 20 Mei 2017, Creative Commons Indonesia (CCID) bekerja sama dengan UNDAS mengadakan sosialisasi lisensi Creative Commons (CC) di Bioskop Mini Kominfo Samarinda. Hilman Fathoni (Konsultan Lisensi Creative Commons Indonesia) menjadi pengisi materi pada kesempatan sosialisasi kali ini. Tim CCID berkesempatan untuk menjawab pertanyaan-pertanyaan dari kontributor UNDAS dan komunitas Youtuber Samarinda yang menjadi peserta sosialisasi kali ini terkait cara mencari konten berlisensi bebas yang bebas royalti dan dapat digunakan kembali dalam kepentingan komersial. Selain itu, dalam kesempatan sosialisasi kali ini tim CCID juga mempromosikan kompetisi fotografi alam yang dihelat oleh Wikimedia Indonesia yaitu Wiki Cinta Alam Indonesia 2017.
 

@@ -1,7 +1,7 @@
 ---
 title: "Lokakarya Wikimedia Commons di Mozilla Community Space"
 date: 2017-07-10T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/lokakarya-wikimedia-commons-di-mozilla-community-space/Poster-Acara-Lokakarya-Wikimedia-Commons.jpeg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,16 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/Poster%20Acara%20Lokakarya%20Wikimedia%20Commons.jpeg" alt="Poster Acara Lokakarya Wikimedia Commons.jpeg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Poster Acara Lokakarya Wikimedia Commons di Mozilla Community Space.</figcaption>
-
-</figure>
 
 Pada 18 Juni 2017, tim Creative Commons Indonesia (CCID) kembali mengadakan lokakarya Wikimedia Commons bekerja sama dengan Mozilla Community Space. Lokakarya ini diselenggarakan sebagai bagian dari perhelatan kompetisi fotografi yang diadakan oleh Wikimedia Indonesia yaitu Wiki Cinta Alam Indonesia 2017.  Hilman Fathoni (Konsultan Lisensi CCID) bertindak sebagai pemateri dalam lokakarya kali ini. Acara ini diadakan di Ruang Komuntias Mozilla Indonesia dari pukul 15:00 WIB hingga waktu berbuka puasa.
 

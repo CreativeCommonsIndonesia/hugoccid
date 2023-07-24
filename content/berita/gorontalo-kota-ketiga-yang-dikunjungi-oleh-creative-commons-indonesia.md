@@ -1,7 +1,7 @@
 ---
 title: "Gorontalo, Kota Ketiga Yang Dikunjungi oleh Creative Commons Indonesia"
 date: 2013-10-19T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/gorontalo-kota-ketiga-yang-dikunjungi-oleh-creative-commons-indonesia/Kelas-Bersama-CCID-dan-Akber-Gorontalo-300x300.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -11,8 +11,7 @@ draft: false
 ---
 
 
-
-<img src="../../uploads/Kelas-Bersama-CCID-dan-Akber-Gorontalo-300x300.jpg" alt="Kelas-Bersama-CCID-dan-Akber-Gorontalo-300x300.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">Creative Commons Indonesia bekerjasama dengan Akademi Berbagi kembali mengadakan Kelas Bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons. Gorontalo menjadi kota ketiga yang dikunjungi oleh Creative Commons Indonesia setelah sebelumnya mengunjungi kota Bali dan Makassar. Kelas Bersama di Gorontalo ini diadakan pada hari Sabtu,  bertempat di Sanggar Kegiatan Belajar (SKB), Kota Gorontalo.
+Creative Commons Indonesia bekerjasama dengan Akademi Berbagi kembali mengadakan Kelas Bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons. Gorontalo menjadi kota ketiga yang dikunjungi oleh Creative Commons Indonesia setelah sebelumnya mengunjungi kota Bali dan Makassar. Kelas Bersama di Gorontalo ini diadakan pada hari Sabtu,  bertempat di Sanggar Kegiatan Belajar (SKB), Kota Gorontalo.
 
 Selain Ari Juliano Gema yang saat itu menjadi narasumber dari Creative Commons Indonesia, Akber Gorontalo juga kedatangan Pendiri dari Akademi Berbagi yaitu Ainun Chomsun. Ainun Chomsun yang akrab disapa Mba Ai ini menyampaikan visi dan Akademi Berbagi sebagai wadah pembelajaran yang menghubungkan orang-orang yang berilmu dan berwawasan dengan orang-orang yang ingin belajar dengan mudah. Setelah Ainun bercerita tentang suka duka yang ia temukan di Akademi Berbagi, kemudian Ari Juliano mulai menyampaikan paparan mengenai Lisensi Creative Commons.
 

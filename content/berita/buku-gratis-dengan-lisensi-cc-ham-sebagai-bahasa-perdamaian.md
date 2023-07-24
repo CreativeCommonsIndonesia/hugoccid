@@ -1,7 +1,7 @@
 ---
 title: "Buku Gratis dengan Lisensi CC: HAM sebagai Bahasa Perdamaian"
 date: 2012-03-05T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/buku-gratis-dengan-lisensi-cc-ham-sebagai-bahasa-perdamaian/elsam-150x150.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/elsam-150x150.jpg" alt="elsam-150x150.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Lembaga Studi dan Advokasi Masyarakat (ELSAM) adalah organisasi advokasi kebijakan di Indonesia yang memperjuangkan hak asasi manusia, baik hak sipil-politik maupun hak ekonomi, sosial, dan budaya secara tak terpisahkan. Kegiatan ELSAM antara lain adalah studi kebijakan dan hukum yang berdampak pada hak asasi manusia, advokasi hak asasi manusia dalam berbagai bentuknya, pendidikan dan pelatihan hak asasi manusia, serta penerbitan dan penyebaran informasi hak asasi manusia.
 

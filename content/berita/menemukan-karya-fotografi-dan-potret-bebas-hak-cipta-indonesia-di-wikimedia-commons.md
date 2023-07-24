@@ -1,7 +1,7 @@
 ---
 title: "Menemukan Karya Fotografi dan Potret Bebas Hak Cipta Indonesia di Wikimedia Commons"
 date: 2017-03-20T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/512px-Batak_Warriors_60011135_edit.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-35 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/512px-Batak_Warriors_60011135_edit.jpg" alt="512px-Batak_Warriors_60011135_edit.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">[Bebas Hak Cipta](https://commons.wikimedia.org/wiki/File:Batak_Warriors_60011135_edit.jpg">Batak Wariors, https://en.wikipedia.org/wiki/Kristen_Feilberg">Kristen Feilberg, http://collectie.wereldculturen.nl/default.aspx?idx=ALL&amp;field=*&amp;search=60011135">Koleksi Museum Nasional Wereldculturen, https://en.wikipedia.org/wiki/public_domain).</figcaption>
-
-</figure>
 
 **Anda sudah baca [artikel kami tentang Wikimedia Commons](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons.html)?**
 
@@ -34,11 +25,9 @@ Mari lihat aktivitas pengarsipan yang dilakukan oleh [Tropenmuseum](https://trop
 
 <img src="../../uploads/12121.jpg" alt="12121.jpg" class="img-fluid w-100 mt-3 mb-4">Tropenmuseum menyimpan berkas-berkas gambar mereka ke dalam kategori spesifik seperti “[foto hitam putih dari Indoensia](https://commons.wikimedia.org/wiki/Category:Images_from_the_Tropenmuseum">Images from Tropenmuseum” ini. Di dalam kategori tersebut kemudian Anda dapat menemukan beberapa kategori yang lebih spesifik seperti https://commons.wikimedia.org/wiki/Indonesia/Tropenmuseum">Indonesia/Tropenmuseum dengan konten berkas-berkas media berupa karya fotografi bebas hak cipta tentang Indonesia. Pengguna Wikimedia Commons lainnya juga dapat membuat kategori yang lebih spesifik lagi untuk beberapa gambar. Contoh kategori-kategori yang dimaksud adalah seperti kategori https://commons.wikimedia.org/wiki/Category:Warriors_of_Indonesia">Prajurit di Indonesia, https://commons.wikimedia.org/wiki/Category:Male_clothing_of_Indonesia">Busana Pria di Indonesia, https://commons.wikimedia.org/wiki/Category:Indonesia_in_the_19th_century">Indonesia di abad 19, atau https://commons.wikimedia.org/wiki/Category:Black_and_white_photographs_of_Indonesia).
 
-<figure class="figure w-sm-35 float-sm-end ms-sm-5 mt-2 mb-4">
+---
 
-
-
-  <img src="../../uploads/512px-Chitra_Dewi,_c._1955.jpg" alt="512px-Chitra_Dewi,_c._1955.jpg" class="figure-img img-fluid">
+<img src="../../uploads/512px-Chitra_Dewi,_c._1955.jpg" alt="512px-Chitra_Dewi,_c._1955.jpg" class="figure-img img-fluid">
 
   <figcaption class="figure-caption">[Bebas hak cipta](https://commons.wikimedia.org/wiki/File:Chitra_Dewi,_c._1955.jpg">Chitra Dewi, Tati Stuios Jakarta, Hasil restorasi Chris Woodrich, https://en.wikipedia.org/wiki/public_domain).</figcaption>
 

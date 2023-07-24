@@ -1,7 +1,7 @@
 ---
 title: "Jurnal Terbitan WIPO Berlisensi CC BY"
 date: 2017-03-07T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/jurnal-terbitan-wipo-berlisensi-cc-by/wipo-logobla.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/wipo-logobla.jpg" alt="wipo-logobla.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4 borderless">Pada bulan November 2016 lalu, World Intellectual Property Organization (WIPO) mulai menerapkan prinsip keterbukaan akses pada terbitan-terbitannya. Penerapan prinsip ini bertujuan memperluas akses pembaca, dan membuat komitmen WIPO dalam aktivitas berbagi pengetahuan semakin nyata. Terbitan-terbitan ini terdiri dari laporan penelitian, jurnal, petunjuk-petunjuk, dan jenis sumber pengetahuan lainnya. Diterapkannya prinsip ini memungkinkan pembuat peraturan, peneliti, praktisi, dan siapapun pihak yang membutuhkan, dapat menggunakan kembali, dan membuat ciptaan turunan dari terbitan-terbitan tersebut. WIPO memilih lisensi Creative Commons (CC) sebagai perangkat lisensi untuk menjalankan prinsip tersebut.
+
+Pada bulan November 2016 lalu, World Intellectual Property Organization (WIPO) mulai menerapkan prinsip keterbukaan akses pada terbitan-terbitannya. Penerapan prinsip ini bertujuan memperluas akses pembaca, dan membuat komitmen WIPO dalam aktivitas berbagi pengetahuan semakin nyata. Terbitan-terbitan ini terdiri dari laporan penelitian, jurnal, petunjuk-petunjuk, dan jenis sumber pengetahuan lainnya. Diterapkannya prinsip ini memungkinkan pembuat peraturan, peneliti, praktisi, dan siapapun pihak yang membutuhkan, dapat menggunakan kembali, dan membuat ciptaan turunan dari terbitan-terbitan tersebut. WIPO memilih lisensi Creative Commons (CC) sebagai perangkat lisensi untuk menjalankan prinsip tersebut.
 
 Lisensi CC BY diterapkan pada terbitan-terbitan yang hak ciptanya dipegang sepenuhnya oleh WIPO.
 

@@ -1,7 +1,7 @@
 ---
 title: "Apakah kicauan-kicauan di Twitter.com mendapatkan perlindungan hak cipta?"
 date: 2016-08-31T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/apakah-kicauan-kicauan-di-twitter-com-mendapatkan-perlindungan-hak-cipta/CKneF6LWEAIgfaZ.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,6 +9,7 @@ author:
 additionalLinks: []
 draft: false
 ---
+
 
 Twitter adalah layanan jejaring sosial berupa mikroblog yang memungkinkan penggunanya untuk membagikan teks, gambar (juga mengakomodasi format .gif dan [Vines](https://en.wikipedia.org/wiki/Vine_(service))), dan video. Pengguna hanya dapat menulis dan membagikan 140 karakter teks dalam sekali kicau (tweet). Selain itu pengguna juga dapat berkomunikasi dengan pengguna lain dengan memilih perintah mention, atau membagikan kembali kicauan pengguna lain dengan mengklik perintah retweet.
 
@@ -20,7 +21,7 @@ Saat itu [hasil penggunaan konten tanpa izin yang dilakukan oleh Dagelandotco](h
 
 <figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
 
-  <img src="../../uploads/CKneF6LWEAIgfaZ.jpg" alt="CKneF6LWEAIgfaZ.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Penggunaan teks dari informasi akun twitter @pergijauh. ([Sumber gambar](https://twitter.com/ramotgun/status/624274216523833344/photo/1))</figcaption>
 

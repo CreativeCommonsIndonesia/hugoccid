@@ -1,7 +1,7 @@
 ---
 title: "Situs Yayasan Kajian Budaya KUNCI dengan CC BY-NC-SA 3.0"
 date: 2012-03-07T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/situs-yayasan-kajian-budaya-kunci-dengan-cc-by-nc-sa-3-dot-0/logo-plat1.png"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -10,13 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-
-
-<figure class="figure w-sm-25 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/logo-plat1.png" alt="logo-plat1.png" class="figure-img img-fluid borderless">
-
-  <figcaption class="figure-caption">KUNCI Cultural Studies Center / CC BY-NC-SA 3.0.</figcaption>
+<figcaption class="figure-caption">KUNCI Cultural Studies Center / CC BY-NC-SA 3.0.</figcaption>
 
 </figure>
 

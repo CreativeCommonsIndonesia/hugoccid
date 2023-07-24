@@ -1,7 +1,7 @@
 ---
 title: "Pilihan Lisensi Creative Commons di Flickr"
 date: 2011-12-12T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/pilihan-lisensi-creative-commons-di-flickr/120px-Flickr_wordmark.svg.png"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/120px-Flickr_wordmark.svg.png" alt="120px-Flickr_wordmark.svg.png" class="img-fluid w-sm-25 borderless float-sm-end ms-sm-5 mt-2 mb-4">
 
 Flickr ([http://www.flickr.com](http://www.flickr.com)) adalah salah satu situs yang memungkinkan setiap orang mengunggah foto dan melisensikannya di bawah lisensi CC. Untuk menentukan lisensi CC yang dapat Anda pilih, Anda dapat klik tulisan “edit” di bawah foto yang telah Anda unggah dan kemudian klik tulisan “edit” di samping tulisan “All rights reserved”.
 

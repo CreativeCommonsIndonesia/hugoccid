@@ -1,7 +1,7 @@
 ---
 title: "Celebration of Freedom of Sharing in Indonesia!"
 date: 2016-12-18T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/celebration-of-freedom-of-sharing-in-indonesia/DSC_0150.JPG"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/DSC_0150.JPG" alt="DSC_0150.JPG" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Creative Commons Indonesia mengadakan diskusi akhir tahun dengan tema Perayaan Kebebasan untuk Berbagi di Indonesia. Acara yang diadakan di Sunset Limited, Kemang Timur, Jakarta ini sekaligus merayakan peringatan 15 tahun berdirinya Creative Commons tanggal 15 Januari 2001 dan 14 tahun lisensi Creative Commons, yang pertama kali diluncurkan pada 16 Desember 2002.
 

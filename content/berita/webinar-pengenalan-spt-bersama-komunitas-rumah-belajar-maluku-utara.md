@@ -1,7 +1,7 @@
 ---
 title: "Webinar Pengenalan Sumber Pembelajaran Terbuka bersama Komunitas Rumah Belajar Maluku Utara"
 date: 2023-07-17T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/webinar-pengenalan-spt-bersama-komunitas-rumah-belajar-maluku-utara/Webinar_SPT_dengan_Komunitas_Rumah_belajar_Maluku_Utara.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/Webinar_SPT_dengan_Komunitas_Rumah_belajar_Maluku_Utara.png" alt="Example alt text" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Lany pirna, [Webinar SPT dengan Komunitas Rumah Belajar Maluku Utara](https://commons.wikimedia.org/wiki/File:Webinar_SPT_dengan_Komunitas_Rumah_belajar_Maluku_Utara.png), Wikimedia Commons, CC BY-SA 4.0.</figcaption>
-
-</figure>
 
 Pada tanggal 14 Maret 2023, Komunitas Rumah Belajar Maluku Utara bekerja sama dengan Creative Commons Indonesia (CCID) menyelenggarakan webinar bertajuk “Pengenalan Sumber Pembelajaran Terbuka”. Webinar ini ditujukan untuk pendidik di wilayah Maluku Utara sebagai upaya untuk memperkenalkan sumber pembelajaran terbuka dan lisensi Creative Commons sebagai sarana untuk mempermudah pendidik dalam membuat bahan ajar digital.
 

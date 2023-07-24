@@ -1,7 +1,7 @@
 ---
 title: "Creative Commons Indonesia di ALSA Legal Coaching Clinic 2012"
 date: 2012-12-11T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/creative-commons-indonesia-di-alsa-legal-coaching-clinic-2012/IMG-20121124-00800.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,9 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/IMG-20121124-00800.jpg" alt="IMG-20121124-00800.jpg" alt="Example alt text" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-<img src="../../uploads/IMG-20121124-00813.jpg" alt="IMG-20121124-00813.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Pada tanggal 24 November 2012 yang lalu Creative Commons Indonesia diundang oleh ALSA LC UNSOED untuk hadir pada kegiatan rutin mereka yaitu ALSA Legal Coaching Clinic 2012 yang bertema Hak Kekayaan Intelektual yaitu Perlindungan Hak Cipta Terhadap  Karya Anak Bangsa. Sasaran peserta ALSA LCC 2012 ini adalah masyarakat sekitar Purwokerto, mahasiswa, dan yang utama adalah komunitas-komunitas yang menghasilkan karya cipta, seperti komunitas fotografi. Sehingga bertujuan untuk mensosialisasikan dasar hukum Hak Cipta kepada masyarakat.
+Pada tanggal 24 November 2012 yang lalu Creative Commons Indonesia diundang oleh ALSA LC UNSOED untuk hadir pada kegiatan rutin mereka yaitu ALSA Legal Coaching Clinic 2012 yang bertema Hak Kekayaan Intelektual yaitu Perlindungan Hak Cipta Terhadap  Karya Anak Bangsa. Sasaran peserta ALSA LCC 2012 ini adalah masyarakat sekitar Purwokerto, mahasiswa, dan yang utama adalah komunitas-komunitas yang menghasilkan karya cipta, seperti komunitas fotografi. Sehingga bertujuan untuk mensosialisasikan dasar hukum Hak Cipta kepada masyarakat.
 
 Kegiatan tersebut dibuka dengan meriah oleh Tari Saman ALSA LC UNSOED, dilanjutkan dengan dengan sambutan dari perwakilan Badan Eksekutif Mahasiswa UNSOED dan Ketua ALSA LC UNSOED.  Dilanjutkan dengan presentasi oleh pembicara pertama yaitu Ibu Ir. Soebandini yang merupakan Ketua Sentra HKI UNSOED. Ibu Soebandini memaparkan mengenai pengertian HKI dan serta lebih jauh mengenai Hak Cipta. Presentasi dilanjutkan dengan penjelasan mengenai Creative Commons oleh Ari Juliano Gema. Sebagai lisensi Hak Cipta, lisensi Creative Commons memang belum banyak didengar oleh masyarakat Purwokerto khususnya teman-teman dari komunitas - komunitas setempat. Sehingga banyak pula pertanyaan yang muncul menanyakan dasar hukum dari lisensi Creative Commons ini di Indonesia. Pada dasarnya lisensi Creative Commons ini adalah perjanjian lisensi biasa, namun bila biasanya untuk membuat perjanjian lisensi perlu menemui pengacara terlebih dahulu dan melalui tahapan-tahapan panjang lain yang tidak singkat, lisensi Creative Commons ini sudah dibuatkan perjanjiannya secara elektronik tanpa biaya dan tanpa pengacara. Dasar hukum dari lisensi ini di Indonesia terdapat pada Pasal 45 Undang - Undang No. 19 Tahun 2002 tentang Hak Cipta, yaitu pada bagian lisensi.
 

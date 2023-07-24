@@ -1,7 +1,7 @@
 ---
 title: "Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia Hari Pertama"
 date: 2012-11-23T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/konferensi-creative-commons-asia-pasifik-2012-dan-peluncuran-creative-commons-indonesia-hari-pertama/ccasiapasifik-ccidap2012.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -9,10 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<img src="../../uploads/ccasiapasifik-ccidap2012.jpg" alt="ccasiapasifik-ccidap2012.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
 
 Akhirnya, pada tanggal 10-11 November 2012 yang lalu, Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia (CCIDAP2012) telah berhasil terselenggara. Antusiasme teman-teman dari seluruh Indonesia dan teman-teman dari afiliasi-afiliasi Creative Commons Asia Pasifik begitu luar biasa. Konferensi ini terdiri dari dua hari dengan dua agenda kegiatan berbeda.
 

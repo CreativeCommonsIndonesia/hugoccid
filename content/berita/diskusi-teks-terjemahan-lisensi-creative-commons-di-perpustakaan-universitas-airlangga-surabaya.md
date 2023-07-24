@@ -1,14 +1,14 @@
 ---
 title: "Diskusi Teks Terjemahan Lisensi Creative Commons di Perpustakaan Universitas Airlangga, Surabaya"
 date: 2012-08-27T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/diskusi-teks-terjemahan-lisensi-creative-commons-di-perpustakaan-universitas-airlangga-surabaya/IMG-20120810-003731.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
   link: https://creativecommons.or.id
 additionalLinks: []
 
----<img src="../../uploads/IMG-20120810-003731.jpg" alt="IMG-20120810-003731.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
+---
 
 <img src="../../uploads/IMG-20120810-00382.jpg" alt="IMG-20120810-00382.jpg" class="img-fluid w-sm-25 float-sm-end ms-sm-5 mt-2 mb-4">
 

@@ -1,7 +1,7 @@
 ---
 title: "Creative Commons Indonesia di Indonesia Netaudio Festival"
 date: 2012-11-26T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/creative-commons-indonesia-di-indonesia-netaudio-festival/netaudiofestival-11.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,7 +10,8 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/netaudiofestival-11.jpg" alt="netaudiofestival-11.jpg" alt="1-d2a780.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4"><img src="../../uploads/netaudiofestival-2.jpg" alt="netaudiofestival-2.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Indonesia Netaudio Festival digelar tanggal 16 - 17 November 2012 yang lalu, di Yogyakarta. Indonesia Netaudio Festival adalah kegiatan offline yang melibatkan para pelaku, pemerhati, dan penikmat netaudio di Indonesia. Selain merupakan social gathering antar-pelaku dan penikmat netaudio, kegiatan yang  diselenggarakan berupa offline file-sharing, pengumpulan dana berupa penjualan merchandise, diskusi, lokakarya, pemutaran filem dan pertunjukkan musik oleh musisi yang merilis album mereka melalui jaringan internet.
+
+<img src="../../uploads/netaudiofestival-2.jpg" alt="netaudiofestival-2.jpg" class="img-fluid w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">Indonesia Netaudio Festival digelar tanggal 16 - 17 November 2012 yang lalu, di Yogyakarta. Indonesia Netaudio Festival adalah kegiatan offline yang melibatkan para pelaku, pemerhati, dan penikmat netaudio di Indonesia. Selain merupakan social gathering antar-pelaku dan penikmat netaudio, kegiatan yang  diselenggarakan berupa offline file-sharing, pengumpulan dana berupa penjualan merchandise, diskusi, lokakarya, pemutaran filem dan pertunjukkan musik oleh musisi yang merilis album mereka melalui jaringan internet.
 
 Beruntung, Creative Commons Indonesia dapat hadir untuk berbagi dengan teman-teman Serikat Netlabel Indonesia. Hadir sebagai pembicara pada #INFTALK, Ivan Lanin sebagai wakil direktur proyek Creative Commons Indonesia, bersanding dengan tiga pembicara lainnya yaitu, Wok the Rock (Yes No Wave Music), Anggung Kuy (Bottlesmokers), dan Nuraini Juliastuti (Kunci Culutral Studies Center), yang berdiskusi dengan mengangkat tema Berbagi Musik sebagai Pemberdayaan Budaya.
 

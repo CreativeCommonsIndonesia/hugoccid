@@ -1,7 +1,7 @@
 ---
 title: "Bermain Internet Meme Sambil Menghindari Pelanggaran Hak Cipta"
 date: 2016-08-11T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/bermain-internet-meme-sambil-menghindari-pelanggaran-hak-cipta/26fb0687857f226a3f02543110fc89807598ec178f7bed1251a28c2aabbf8e47.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -9,6 +9,7 @@ author:
 additionalLinks: []
 draft: false
 ---
+
 
 Meme dapat diartikan sebagai ide, kebiasaan, atau gaya penggunaan,  yang tersebar dan digunakan satu pihak ke pihak lainnya.
 
@@ -18,7 +19,7 @@ Serangkaian perbuatan ini otomatis mengemban risiko pelanggaran hak cipta. Beber
 
 <figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
 
-  <img src="../../uploads/26fb0687857f226a3f02543110fc89807598ec178f7bed1251a28c2aabbf8e47.jpg" alt="26fb0687857f226a3f02543110fc89807598ec178f7bed1251a28c2aabbf8e47.jpg" class="figure-img img-fluid">
+  
 
   <figcaption class="figure-caption">Salah satu parodi Boromir yang tersebar di Internet. Sumber: [Quickmeme.com](http://www.quickmeme.com/Boromir/page/1/).</figcaption>
 

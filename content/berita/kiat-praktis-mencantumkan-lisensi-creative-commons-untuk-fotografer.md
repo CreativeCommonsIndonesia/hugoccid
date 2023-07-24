@@ -1,7 +1,7 @@
 ---
 title: "Kiat praktis mencantumkan lisensi Creative Commons untuk fotografer"
 date: 2016-07-29T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/kiat-praktis-mencantumkan-lisensi-creative-commons-untuk-fotografer/LOMBOK_clean_water_(10708874693).jpg"
 author:
   name: "Siska Doviana"
   photo: "../../uploads/people/ccid-mosaic.svg"
@@ -9,16 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-3 mb-4">
-
-  <img src="../../uploads/LOMBOK_clean_water_(10708874693).jpg" alt="LOMBOK_clean_water_(10708874693).jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Seorang wanita di lombok mengisi tandon air dengan air bersih. Lisensi CC-BY 2.0 gambar dari ["Lombok Clean Water"](https://commons.wikimedia.org/wiki/File:LOMBOK_clean_water_(10708874693).jpg) upaya pemerintah Australia di Indonesia.</figcaption>
-
-</figure>
 
 Bagaimana Anda memperoleh air minum? Di Australia saya ditertawakan ketika saya menadah air keran dan memasaknya sebelum saya minum. Saat itu saya lupa bahwa air yang mengalir di kerannya sudah aman untuk diminum dengan kualitas yang baik.
 

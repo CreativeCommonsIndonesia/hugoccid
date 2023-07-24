@@ -1,7 +1,7 @@
 ---
 title: "Jaringan Buku Cerita Anak Berlisensi Terbuka di StoryWeaver oleh Pratham Books"
 date: 2017-07-19T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/pbIAA8ce.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/pbIAA8ce.png" alt="pbIAA8ce.png" class="img-fluid w-sm-25 borderless float-sm-end ms-sm-5 mt-2 mb-4">
 
 **Pratham Books** didirikan sebagai lembaga penerbitan nirlaba yang menerbitkan buku anak-anak sejak tahun 2004 dengan misi ‘untuk melihat buku di setiap tangan anak-anak’. Tujuan utama mereka adalah menerbitkan buku cerita yang berkualitas dengan harga terjangkau dalam beberapa bahasa India untuk menunjang kemampuan membaca anak-anak di India.
 

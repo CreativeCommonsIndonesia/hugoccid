@@ -1,7 +1,7 @@
 ---
 title: "Ikon berlisensi terbuka dari Noun Project!"
 date: 2017-03-20T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/ikon-berlisensi-terbuka-dari-noun-project/noun-project.png"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,7 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<img src="../../uploads/noun-project.png" alt="noun-project.png" class="img-fluid w-sm-35 float-sm-end ms-sm-5 mt-3 mb-4 borderless">[The Noun Project](https://thenounproject.com/about/) merupakan situs berbasis jejaring sosial yang diciptakan untuk merayakan bahasa visual dengan membuat, dan membagikannya secara terbuka. Ikon-ikon ini disediakan dengan tujuan untuk menyederhanakan komunikasi di seluruh dunia. Dengan model jejaring sosial yang diterapkan oleh Noun Project, situs ini setiap hari menerima kontribusi ikon-ikon baru yang diciptakan oleh pengguna-pengguna terdaftar di situs tersebut.
+[The Noun Project](https://thenounproject.com/about/) merupakan situs berbasis jejaring sosial yang diciptakan untuk merayakan bahasa visual dengan membuat, dan membagikannya secara terbuka. Ikon-ikon ini disediakan dengan tujuan untuk menyederhanakan komunikasi di seluruh dunia. Dengan model jejaring sosial yang diterapkan oleh Noun Project, situs ini setiap hari menerima kontribusi ikon-ikon baru yang diciptakan oleh pengguna-pengguna terdaftar di situs tersebut.
 
 <img src="../../uploads/BY-d456e2.png" alt="BY-d456e2.png" class="img-fluid mt-3 mb-4 borderless" width="200"><img src="../../uploads/publicdomain.png" alt="publicdomain.png" class="img-fluid mt-3 mb-4 borderless" width="200">Situs ini menyediakan jutaan ikon dengan [lisensi](https://thenounproject.zendesk.com/hc/en-us/articles/200509798-What-licenses-do-you-use-) CC BY dan dedikasi domain publik yang memungkinkan Anda untuk menggunakan ikon tersebut untuk kepentingan komersial. Yang selalu menjadi catatan penting dalam penggunaan konten berlisensi terbuka dengan ketentuan ini adalah Anda tetap diwajibkan menyebutkan nama pencipta, dan sumber atau tempat Anda menemukan ciptaan tersebut.
 

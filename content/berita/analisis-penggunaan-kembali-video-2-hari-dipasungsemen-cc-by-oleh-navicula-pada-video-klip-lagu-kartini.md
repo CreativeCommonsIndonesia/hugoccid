@@ -1,7 +1,7 @@
 ---
 title: "Analisis: Penggunaan Kembali Video 2 Hari #Dipasungsemen (CC BY) Oleh Navicula Pada Video Klip Lagu ‘Kartini’"
 date:   2016-08-18T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/analisis-penggunaan-kembali-video-2-hari-dipasungsemen-cc-by-oleh-navicula-pada-video-klip-lagu-kartini/ibu-kendeng20-IMG_2815.jpg"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,16 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/ibu-kendeng20-IMG_2815.jpg" alt="ibu-kendeng20-IMG_2815.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Bentuk protes rencana pembangunan tambang dan pabrik semen di pegunungan Kendeng. ([Mongabay](https://www.facebook.com/sapariah.saturi?fref=ts&amp;ref=br_tf">Sapariah Saturi/http://www.mongabay.co.id/2016/04/14/berharap-semen-kaki-para-perempuan-kendeng-berbuah-aksi-dari-jokowi/))</figcaption>
-
-</figure>
 
 Adhito Harinugroho (Dhito) adalah seorang pembuat video yang banyak melibatkan diri dengan tema-tema keadilan sosial, hak asasi manusia, dan isu-isu humanitarian.[1] Pada tanggal 16 April 2016 Sorge Magazine mengunggah video yang dibuat Dhito bersama Efi Sri Handayani, dengan judul ‘2 hari #Dipasungsemen’ di kanal Youtube Sorge Magazine.
 

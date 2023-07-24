@@ -10,6 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
+
 Halo sobat CCID!
 
 Kami ikut serta menyumbangkan daftar akhir tahun 2016 di situs Creative Commons Internasional.

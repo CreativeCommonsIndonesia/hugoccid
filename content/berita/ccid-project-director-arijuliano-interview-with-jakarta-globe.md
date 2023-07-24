@@ -1,7 +1,7 @@
 ---
 title: "CCID Project Director (@arijuliano) interview with Jakarta Globe"
 date: 2012-02-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/ccid-project-director-arijuliano-interview-with-jakarta-globe/20100807211640!Fbi_anti_piracy_warning.jpg"
 author:
   name: "Alifia Qonita Sudharto"
   photo: "/img/favicon.png"
@@ -10,15 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-
-
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/20100807211640!Fbi_anti_piracy_warning.jpg" alt="20100807211640!Fbi_anti_piracy_warning.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Flickr: bizmac / CC BY 2.0.</figcaption>
+<figcaption class="figure-caption">Flickr: bizmac / CC BY 2.0.</figcaption>
 
 </figure>
 

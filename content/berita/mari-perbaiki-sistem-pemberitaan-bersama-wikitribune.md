@@ -1,7 +1,7 @@
 ---
 title: "Mari Perbaiki Sistem Pemberitaan Bersama Wikitribune!"
 date: 2017-07-12T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/mari-perbaiki-sistem-pemberitaan-bersama-wikitribune/wikitribune.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -9,8 +9,6 @@ author:
 additionalLinks: []
 draft: false
 ---
-
-<img src="../../uploads/wikitribune.jpg" alt="wikitribune.jpg" class="img-fluid w-sm-35 float-sm-end ms-sm-5 mt-2 mb-4">
 
 **Wikitribune** adalah proyek terbaru Wiki yang diinisiasi oleh [Jimmy Wales (https://id.wikipedia.org/wiki/Jimmy_Wales) sebagai upayanya untuk menutup tirai dari model bisnis media yang menjual [Google](https://id.wikipedia.org/wiki/Pemberitaan_palsu">pemberitaan palsu (fake news). Untuk mewujudkan visinya, Jimmy mengundang seluruh pengguna internet, yang sama-sama peduli dengan isu ini, untuk memberikan donasi melalui situs https://www.wikitribune.com/">wikitribune.com. Donasi ini nantinya akan dimanfaatkan untuk memenuhi kebutuhan situs Wikitribune seperti pembangunan situs, menggaji para jurnalis, dan menutupi kebutuhan-kebutuhan operasional dari situs tersebut. Kini Wikitribune telah menerima donasi dari 11.183 pendukung dari usaha urun dananya. Wikitribune juga menerima bantuan dana dari perusahaan teknologi Korea bernama ESV, seorang pemimpin yayasan filantrofi https://en.wikipedia.org/wiki/Craig_Newmark">Craig Newmark, https://www.journalism.cuny.edu/2017/04/announcing-the-new-integrity-initiative/">The News Integrity Initiative, dan https://www.google.co.id/intl/en/about/).<figure class="figure w-50 float-end mt-3 mb-4 ms-5">
 

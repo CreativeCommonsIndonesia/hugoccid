@@ -1,7 +1,7 @@
 ---
 title: "Apa saja yang dicari melalui mesin pencari Creative Commons?"
 date: 2017-07-23T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/apa-saja-yang-dicari-melalui-mesin-pencari-creative-commons/4805137133_e7e2213a91_o.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,13 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/4805137133_e7e2213a91_o.jpg" alt="4805137133_e7e2213a91_o.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Salah satu lukisan Picasso koleksi MET dari CC Search oleh [CC BY 2.0](https://www.flickr.com/photos/nglklm/">Nathan Laurell/https://creativecommons.org/licenses/by/2.0/).</figcaption>
+<figcaption class="figure-caption">Salah satu lukisan Picasso koleksi MET dari CC Search oleh [CC BY 2.0](https://www.flickr.com/photos/nglklm/">Nathan Laurell/https://creativecommons.org/licenses/by/2.0/).</figcaption>
 
 </figure>
 

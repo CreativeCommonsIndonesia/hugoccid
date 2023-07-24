@@ -1,7 +1,7 @@
 ---
 title: "Konferensi Tingkat Tinggi Dunia Creative Commons 2017 - Hari Pertama"
 date: 2017-07-03T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/konferensi-tingkat-tinggi-dunia-creative-commons-2017-hari-pertama/800px-Logo_Creative_Commons_Global_Summit_2017.png"
 author:
   name: "Hilman Fathoni"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/800px-Logo_Creative_Commons_Global_Summit_2017.png" alt="800px-Logo_Creative_Commons_Global_Summit_2017.png" class="figure-img img-fluid borderless">
-
-  <figcaption class="figure-caption">Logo Creative Commons Global Summit 2017.</figcaption>
-
-</figure>
 
 [Kanada](https://summit.creativecommons.org/">Creative Commons (CC) Global Summit 2017 (Bahasa Inggris) atau Konferensi Tingkat Tinggi Dunia Creative Commons 2017 merupakan upaya peluncuran babak baru gerakan global Creative Commons. Konferensi ini berupaya menyediakan ruang kolaboratif yang menyenangkan bagi siapa saja yang ingin bersama-sama menelusuri masa depan Creative Commons dan aktivitas berbagi yang melibatkan pengguna ciptaan, pencipta, dan aktivis. Acara yang diselenggarkan tiap dua tahun sekali ini dilaksanakan pada tanggal 28-30 Mei 2017 di https://id.wikipedia.org/wiki/Toronto">Toronto, https://id.wikipedia.org/wiki/Kanada). Pada tahun ini Creative Commons Global Summit 2017 mengusung tema “Sharing and the Commons: What’s Next”. Dalam konferensi kali ini CC berniat untuk mengubah fokus pembicaraan dari pembicaraan mengenai lisensi hak cipta ke pembicaraan mengenai perluasan jaringan komunitas global Creative Commons.
 

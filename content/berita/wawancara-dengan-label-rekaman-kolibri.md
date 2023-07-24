@@ -10,6 +10,7 @@ additionalLinks: []
 draft: false
 ---
 
+
 [Bandcamp](https://kolibrirekords.bandcamp.com/">Kolibri Rekords merupakan label rekaman dari Jakarta yang dibentuk dan dikelola oleh Daffa Andika dan Ratta Bill Abaggi. Label rekaman ini mendistribusikan musik di dalam dan di luar jaringan. Dalam praktek produksi dan distribusi musik, Kolibri Rekords menerapkan ketentuan https://creativecommons.org/share-your-work/licensing-types-examples/">lisensi Creative Commons (CC), yakni lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa). Ketentuan tersebut diaplikasikan oleh Kolibri pada laman http://bandcamp.com/) mereka, untuk musik-musik yang mereka distribusikan di dalam jaringan. Situs web Bandcamp  menyediakan pilihan lisensi CC, agar dapat diaplikasikan oleh pengguna situs pada tiap konten yang mereka unggah.
 
 Kolibri juga menempelkan ketentuan lisensi CC tersebut pada rekaman musik dalam format fisik yang mereka produksi. Dengan melihat praktik berbagi musik, serta konten-konten musik menarik yang diciptakan oleh para roster label rekaman ini, tim [CCID](http://www.wikimedia.or.id/wiki/Creative_Commons_Indonesia_2016) memutuskan untuk menerbitkan artikel wawancara dengan Kolibri Rekords. Daffa Andika, salah satu pendiri label rekaman Kolibri, menjadi narasumber kami untuk sesi wawancara ini.

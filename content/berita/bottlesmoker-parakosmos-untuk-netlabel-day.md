@@ -1,7 +1,7 @@
 ---
 title: "Parakosmos Untuk Netlabel Day Dari Bottlesmoker dan 4 rilisan dari Ripstore Asia!"
 date: 2017-07-14T01:23:49+07:00
-featured_image: "/img/skyline.png"
+featured_image: "/img/post/bottlesmoker-parakosmos-untuk-netlabel-day/bottlesmoker-575x384.jpg"
 author:
   name: "Creative Commons Indonesia"
   photo: "/img/favicon.png"
@@ -10,15 +10,6 @@ additionalLinks: []
 draft: false
 ---
 
-<figure class="figure w-sm-50 float-sm-end ms-sm-5 mt-2 mb-4">
-
-
-
-  <img src="../../uploads/bottlesmoker-575x384.jpg" alt="bottlesmoker-575x384.jpg" class="figure-img img-fluid">
-
-  <figcaption class="figure-caption">Anggung Suherman (Angkuy) dan Ryan Adzani (Nobie).</figcaption>
-
-</figure>
 
 Tanggal  lalu merupakan hari peringatan internet label (netlabel) sedunia. Untuk ikut serta merayakan hari tersebut, Bottlesmoker, proyek musik yang selalu setia merilis musiknya secara gratis dan berlisensi terbuka merilis album barunya yang bertajuk “Parakosmos” lewat Yes No Wave Netlabel. Seperti yang pernah kami beritakan sebelumnya, di dalam album ini mereka berkolaborasi dengan materi rekaman musik tradisi yang direkam oleh Palmer Keen dari Aural Archipelago. Hasil dari respon mereka terhadap rekaman tersebut adalah 10 track di album Parakosmos ini.
 
