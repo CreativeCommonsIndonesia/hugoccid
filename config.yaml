@@ -6,6 +6,12 @@ title: Creative Commons Indonesia
 uglyURLs: false
 paginate: 5
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 permalinks:
   tentang: /tentang
   berita: /:year/:month/:title
