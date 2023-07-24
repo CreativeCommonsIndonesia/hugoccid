@@ -34,18 +34,56 @@ Dari setiap kontes tentulah ada karya terbaik yang wajib diapresiasi, untuk itu 
 - Dwi Afrizal.      
   - "Ini Namanya Bukan Pembajakan"   
 
-<h1>saa</h1>
-<div class="d-none">
 
-{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/Halaman-Judul.png" class="w-25 figure my-3" >}}Karya Nominasi{{< /gambar-kapsi >}}
-{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman_1.png" class="w-25 figure my-3" >}}Karya Nominasi{{< /gambar-kapsi >}}
-{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman-0-sampul.jpg" class="w-25 figure my-3" >}}Karya Nominasi{{< /gambar-kapsi >}}
-{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman_Sampul.png" class="w-25 figure my-3" >}}Karya Nominasi{{< /gambar-kapsi >}}
-{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/Sumber-Konten-Berlisensi-Creative-Commons-1.png" class="w-25 figure my-3" >}}Karya Nominasi{{< /gambar-kapsi >}}
+<div class="d-flex gap-3">
+
+{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/Halaman-Judul.png" class="w-25 figure my-3" >}}Karya Nominasi 1{{< /gambar-kapsi >}}
+{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman_1.png" class="w-25 figure my-3" >}}Karya Nominasi 2{{< /gambar-kapsi >}}
+{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman-0-sampul.jpg" class="w-25 figure my-3" >}}Karya Nominasi 3{{< /gambar-kapsi >}}
+{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/halaman_Sampul.png" class="w-25 figure my-3" >}}Karya Nominasi 4{{< /gambar-kapsi >}}
+{{< gambar-kapsi src="/img/post/pengumuman-pemenang-kontes-desain-infografik/Sumber-Konten-Berlisensi-Creative-Commons-1.png" class="w-25 figure my-3" >}}Karya Nominasi 5{{< /gambar-kapsi >}}
 
 </div>
 
 Dan akhirnya, dari kelima nominator di atas, <b>Ryan Willmanda Januardi</b> dengan karyanya berjudul <i>“Berkenalan dengan Sumber Pembelajaran Terbuka”</i> terpilih menjadi juara Kontes Desain Infografik Adicita.
+
+<div id="photocarousel" class="carousel slide float-md-end w-md-50 ms-md-5 mb-lg-3 mb-5" data-bs-ride="false">
+            <div class="carousel-inner">
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-0-sampul.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item active">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-1.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-2.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-3.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-4.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-5-penutup.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-6-kredit.jpg" alt="Example alt text" class="d-block w-100">
+              </div>
+              <div class="carousel-item">
+                <img src="/img/post/pengumuman-pemenang-kontes-desain-infografik//Ryan_Willmanda/halaman-7-informasi-karya.jpg" alt="Example alt text" class="d-block w-100">
+              </div>    
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#photocarousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#photocarousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+
 
 Selamat pada pemenang dan terima kasih sebesar-besarnya kepada seluruh peserta yang telah turut serta mengkampanyekan sumber pembelajaran terbuka di Indonesia!
 
