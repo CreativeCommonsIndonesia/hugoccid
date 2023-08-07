@@ -36,7 +36,7 @@ StoryWeaver merupakan situs web yang dinisiasi oleh Pratham Books. Situs web ini
 
 Situs ini menyediakan empat macam pilihan aktivitas yang dapat diperankan oleh penggunanya, yaitu:
 
-  - **[Read](https://storyweaver.org.in/search)**Ketika Anda berperan sebagai pembaca atau pengguna ciptaan, selain mengakses bacaan lewat situs ini, Anda juga dapat mengunduh dan mencetak cerita anak-anak yang Anda inginkan untuk Anda gunakan, misalnya di lembaga pendidikan tempat Anda mengajar, atau sekadar sebagai bahan bacaan untuk anak-anak Anda di rumah. StoryWeaver melengkapi situs ini dengan mesin pencari jika Anda memerlukan suatu bahan bacaan yang spesifik, misalnya dari penerbit tertentu, tingkatan tertentu, genre cerita, bahkan bahasa pengantar yang dipakai di cerita tersebut.
+  - **[Read](https://storyweaver.org.in/search)** Ketika Anda berperan sebagai pembaca atau pengguna ciptaan, selain mengakses bacaan lewat situs ini, Anda juga dapat mengunduh dan mencetak cerita anak-anak yang Anda inginkan untuk Anda gunakan, misalnya di lembaga pendidikan tempat Anda mengajar, atau sekadar sebagai bahan bacaan untuk anak-anak Anda di rumah. StoryWeaver melengkapi situs ini dengan mesin pencari jika Anda memerlukan suatu bahan bacaan yang spesifik, misalnya dari penerbit tertentu, tingkatan tertentu, genre cerita, bahkan bahasa pengantar yang dipakai di cerita tersebut.
 
   - **[Create](https://storyweaver.org.in/start)**<figure class="figure w-sm-50 mt-3 mb-4">
 
